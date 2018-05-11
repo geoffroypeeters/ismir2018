@@ -138,17 +138,28 @@ FAVICON = '/images/ismir2018logo_black_long.png'
 
 
 
-IMG_SPONSOR_YOUSICIAN = '/images/sponsorship/platinum/Platinum-yousician-green.png'
-URL_SPONSOR_YOUSICIAN = 'https://yousician.com'
+IMG_SPONSOR_ACRCLOUD = ''
+URL_SPONSOR_ACRCLOUD = ''
 
-IMG_SPONSOR_SMULE = '/images/sponsorship/platinum/Platinum-Smule.png'
-URL_SPONSOR_SMULE = 'https://www.smule.com'
+SPONSOR_PLATINUM_L = [
+                    {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/Platinum-Pandora_Wordmark_RGB.jpg'},
+                    {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/Platinum-Shazam_LOGO_MASTERBRAND_2000.png'},
+                    {'url':'https://www.smule.com', 'img':'/images/sponsorship/platinum/Platinum-Smule.png'},
+                    {'url':'https://www.spotify.com/', 'img':'/images/sponsorship/platinum/Platinum-Spotify_Logo_RGB_Green-WEB.png'},
+                    {'url':'https://yousician.com', 'img':'/images/sponsorship/platinum/Platinum-Yousician-green.png'},
+                    ]
 
-IMG_SPONSOR_STEINBERG = '/images/sponsorship/gold/Gold-Steinberg_Trademark_2017_RGB_transp_1800px.png'
-URL_SPONSOR_STEINBERG = 'https://www.steinberg.net'
+SPONSOR_GOLD_L = [
+                    {'url':'https://www.izotope.com', 'img':'/images/sponsorship/gold/Gold-Izotope_full-logo-blk.jpg'},
+                    {'url':'https://www.steinberg.net', 'img':'/images/sponsorship/gold/Gold-Steinberg_Trademark_2017_RGB_transp_1800px.png'},
+                    ]
 
-IMG_SPONSOR_IZOTOPE = '/images/sponsorship/gold/Gold_Izotope_full-logo-blk.jpg'
-URL_SPONSOR_IZOTOPE = 'https://www.izotope.com'
+SPONSOR_SILVER_L = [
+                    {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/Silver-ACRCloud-logo.png'},
+                    ]
+
+SPONSOR_BRONZE_L = [
+                    ]
 
 # Blogroll
 LINKS =  (('Télécom ParisTech', 'https://www.telecom-paristech.fr/'),
