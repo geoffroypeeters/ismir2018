@@ -138,9 +138,6 @@ FAVICON = '/images/ismir2018logo_black_long.png'
 
 
 
-IMG_SPONSOR_ACRCLOUD = ''
-URL_SPONSOR_ACRCLOUD = ''
-
 SPONSOR_PLATINUM_L = [
                     {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/Platinum-Pandora_Wordmark_RGB.jpg'},
                     {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/Platinum-Shazam_LOGO_MASTERBRAND_2000.png'},
@@ -160,6 +157,7 @@ SPONSOR_SILVER_L = [
 
 SPONSOR_BRONZE_L = [
                     ]
+
 
 # Blogroll
 LINKS =  (('Télécom ParisTech', 'https://www.telecom-paristech.fr/'),
