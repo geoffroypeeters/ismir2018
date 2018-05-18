@@ -49,6 +49,8 @@ Fabian-Robert Stöter received the diploma degree in electrical engineering in 2
 
 </TABLE>
 
+
+
 ## Deep Learning for MIR
 
 **Spearkers: Alexander Schindler, Thomas Lidy, Sebastian Böck**
