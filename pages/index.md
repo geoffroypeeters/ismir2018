@@ -27,6 +27,7 @@ The following is a preliminary provisional [planning]({filename}/pages/eventsAtA
 	- ["1st Workshop on Music Reading Systems (WoRMS)"](https://sites.google.com/view/worms2018) will be held at the CNAM Thursday 2018/09/20
 	- Workshop on "The New Shape of Audio Branding" will be held at IRCAM Thursday 2018/09/20
 	- ["5th International Conference on Digital Libraries for Musicology"](https://dlfm.web.ox.ac.uk) will be held at IRCAM Friday 2018/09/28
+	- ["WiMIR 1st Annual Workshop"](https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/ ) will be held at Télécom ParisTech Friday 2018/09/28
 - [Call for paper]({filename}/pages/callPapers.md) and [information related to submission]({filename}/pages/callSubmission.md) are now available
 - Important dates for ISMIR-2018 are now indicated [here]({filename}/pages/importantdates.md)
 - We are proud to announce our first keynote for ISMIR-2018: [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)

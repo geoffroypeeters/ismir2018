@@ -40,3 +40,12 @@ The reviewing workflow follows a two-tier model, i.e. with one level of “regul
 Notifications of acceptance will be sent on May 25th.
 
 Accepted papers must be presented at the conference by one of the authors and, at least, **one of the authors must register before the deadline given for author registration (July 6th)**. Failure to register before the deadline will result in automatic withdrawal of your paper from the conference proceedings and program.
+
+
+## Camera-Ready Submissions
+
+- Submit your camera-ready paper in PDF format using either the ISMIR 2018 [LaTex]({filename}/doc/latex.zip) or [Word]({filename}/doc/word.zip) template packages.
+- Please note that for Word template users, the authors will need to insert the appropriate author name(s) and the title of paper inside the copyright notice.
+- Paper titles can change, following any suggestions from reviewers; abstracts can be updated.
+- The author list and order cannot change and should be the same as the one entered in the submission system for the original submission.
+- Submit your formatted camera-ready paper via [https://www.softconf.com/h/ismir2018/](https://www.softconf.com/h/ismir2018/) (left column “For Authors”).

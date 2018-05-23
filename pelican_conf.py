@@ -114,9 +114,10 @@ MENUITEMS = [
     ('Meetup with Industry', '/pages/events-meetup-industry.html'),
     ]),
 ('Events-Satellite', [
-    ('HAMR (Hacking Audio and Music Research)', '/pages/events-HAMR.html'),
+    ('HAMR (Hacking Audio and Music Research)', 'https://labrosa.ee.columbia.edu/hamr_ismir2018/'),
     ('5th International Conference on Digital Libraries for Musicology', 'https://dlfm.web.ox.ac.uk'),
-    ('1st Workshop on Music Reading Systems (WoRMS)', 'https://sites.google.com/view/worms2018')
+    ('1st Workshop on Music Reading Systems (WoRMS)', 'https://sites.google.com/view/worms2018'),
+    ('WiMIR 1st Annual Workshop', 'https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/'),
     ]),
 ('Partners', [
     ('Become an Industry Partner', '/pages/partners-call.html'),
@@ -139,6 +140,8 @@ FAVICON = '/images/ismir2018logo_black_long.png'
 
 
 SPONSOR_PLATINUM_L = [
+                    {'url':'http://cnrs.fr/', 'img':'/images/sponsorship/platinum/Platinum-CNRS.png'},
+                    {'url':'https://www.deezer.com/', 'img':'/images/sponsorship/platinum/Platinum-Deezer_Logo_CMYK.png'},
                     {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/Platinum-Pandora_Wordmark_RGB.jpg'},
                     {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/Platinum-Shazam_LOGO_MASTERBRAND_2000.png'},
                     {'url':'https://www.smule.com', 'img':'/images/sponsorship/platinum/Platinum-Smule.png'},

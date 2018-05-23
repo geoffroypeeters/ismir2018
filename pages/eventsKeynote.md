@@ -13,6 +13,9 @@ In his seminal work, first published in 1811, Joseph Fourier was primarily conce
 
 Beyond celebrating this year the 250th birthday of Fourier and reviving the forgotten memory of Scott, intertwining those complementary approaches via Kœnig is believed to offer a way of revisiting issues such as the physical significance of Fourier modes, or the questionable necessity of their use as features in modern recognition systems.
 
+<img src="../images/fourier_1.jpg">
+<img src="../images/fourier_2.jpg">
+
 <P>
 <img class="alignleft" src="../images/people_flandrin_200.jpg">
 <strong>Patrick Flandrin</strong> received the engineer degree from ICPI Lyon, France, in 1978, and the Doct.-Ing. and Docteur d’État degrees from INP Grenoble, France, in 1982 and 1987, respectively. He joined CNRS in 1982, where he is currently Research Director. Since 1991, he has been with the Signals, Systems and Physics Group, within the Physics Department at ENS de Lyon, France. He is currently President of GRETSI, the French Association for Signal and Image Processing. 
@@ -22,6 +25,7 @@ Dr. Flandrin was awarded the Philip Morris Scientific Prize in Mathematics (1991
 </P>
 
 [Homepage](http://perso.ens-lyon.fr/patrick.flandrin/)
+
 
 
 
