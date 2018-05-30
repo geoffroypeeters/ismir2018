@@ -14,7 +14,14 @@ WiMIR has held annual meetings at the ISMIR conference since 2012, garnering a h
 
 At this year's ISMIR, we will hold a WiMIR reception (date and time tba) and will also have a special WiMIR session at the conference. More details will be presented here soon. 
 
-Women in MIR (WiMIR) Session is supported by
 
-![Program]({filename}/images/sponsorship/wimir/CCRMA.jpg)
-![Program]({filename}/images/sponsorship/wimir/Steinberg.png)
+## WiMIR Travel Awards at ISMIR2018 are supported by
+
+
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Large-Smule.png)
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Large-Spotify.png)
+
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-CCRMA.jpg)
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-iZotope.jpg)
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-Shazam.png)
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-Steinberg.png)

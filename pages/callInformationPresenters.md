@@ -44,7 +44,24 @@ Which means that your oral and poster presentations will occur in the assigned s
 - Note that all posters presented during one the three sessions of a given day, should be installed in the morning **before the opening of the first session** (before 8.30am). Posters will stay for the whole day.
 - All posters must use **portrait orientation** and be no larger than **ISO A0 size** or 36 x 48 inches. Posters can only be hung in Portrait format. There is no poster template.
 - Each of the three days, ends with a specific time slots (Posters 1+2+3, Posters 4+5+6 or Posters 7+8+9) which allows for even more discussion with the authors of the paper.
-- Information on **local poster printing service** will be provided soon
+- A list of **local poster printing services** is provided below
+
+	- Graphirel [Link](http://graphirel.fr/)
+	Adress: Chez publigraphie 92 rue bobillot 75013 Paris
+	Phone: 01.45.88.01.57
+
+	- Flash Print [Link](http://www.flash-print-imprimerie.com/)
+	Adress: 205 boulevard vincent auriol 75013 Paris
+	Phone: 01.45.86.44.24
+
+	- Fot [Link](http://www.fot.fr/index.html)
+	Adress: 55 rue brillat savarin 75013 Paris
+	Phone: 01.58.10.06.00
+
+	- Cloitre Imprimeurs [Link](http://www.cloitre-imp.fr/fr/)
+	Adress: 36 rue de la glaciere 75013 Paris
+	Phone: 01.55.43.83.06
+
 
 
 
