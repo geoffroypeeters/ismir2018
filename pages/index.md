@@ -9,18 +9,9 @@ Illustration: black.png
 <!-- ![Alt Text]({filename}/images/ismir2018logo_black_long.png) -->
 
 
-## Welcome
-
-The 19th International Society for Music Information Retrieval Conference will take place in Paris, France, from September 23-27, 2018.
-It is a join organization between Télécom ParisTech and IRCAM.
-
-The following is a preliminary provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference subject to adaptations.
-
-![Program]({filename}/images/program3.png)
-
-
-
 ## News
+- Call for Financial Supports (Grants) is now published [here]({filename}/pages/participantsFinancialSupports.md)
+- Regitration are now open [here]({filename}/pages/participantsRegistration.md)
 - This year we will organize a special ``Meetup with Industry" on the afternoon of Thursday 2018/09/27. It will take place at Station-F. More information [here]({filename}/pages/eventsMeetupIndustry.md)
 - This year we will welcome 8 tutorials on Sunday 2018/09/23. It will take place at Télécom ParisTech. More information [here]({filename}/pages/eventsTutorials.md)
 - This year, we will welcome 4 satellite workshops in various places (IRCAM, CNAM and Télécom ParisTech. Those are:
@@ -33,3 +24,17 @@ The following is a preliminary provisional [planning]({filename}/pages/eventsAtA
 - We are proud to announce our first keynote for ISMIR-2018: [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)
 - Preliminary provisional planning is now online [Here]({filename}/pages/eventsAtAGlance.md)
 - Call for sponsors is now online [Here]({filename}/pages/partnersCall.md)
+
+
+
+## Welcome
+
+The 19th International Society for Music Information Retrieval Conference will take place in Paris, France, from September 23-27, 2018.
+It is a join organization between Télécom ParisTech and IRCAM.
+
+The following is a preliminary provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference subject to adaptations.
+
+![Program]({filename}/images/program3.png)
+
+
+

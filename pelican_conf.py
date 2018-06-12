@@ -140,22 +140,23 @@ FAVICON = '/images/ismir2018logo_black_long.png'
 
 
 SPONSOR_PLATINUM_L = [
-                    {'url':'http://cnrs.fr/', 'img':'/images/sponsorship/platinum/Platinum-CNRS.png'},
-                    {'url':'https://www.deezer.com/', 'img':'/images/sponsorship/platinum/Platinum-Deezer_Logo_CMYK.png'},
-                    {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/Platinum-Pandora_Wordmark_RGB.jpg'},
-                    {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/Platinum-Shazam_LOGO_MASTERBRAND_2000.png'},
-                    {'url':'https://www.smule.com', 'img':'/images/sponsorship/platinum/Platinum-Smule.png'},
-                    {'url':'https://www.spotify.com/', 'img':'/images/sponsorship/platinum/Platinum-Spotify_Logo_RGB_Green-WEB.png'},
-                    {'url':'https://yousician.com', 'img':'/images/sponsorship/platinum/Platinum-Yousician-green.png'},
+                    {'url':'http://cnrs.fr/', 'img':'/images/sponsorship/platinum/cnrs_200.png'},
+                    {'url':'https://www.deezer.com/', 'img':'/images/sponsorship/platinum/deezer_200.png'},
+                    {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/pandora_200.jpg'},
+                    {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/shazam_200.png'},
+                    {'url':'https://www.smule.com', 'img':'/images/sponsorship/platinum/smule_200.png'},
+                    {'url':'https://www.spotify.com/', 'img':'/images/sponsorship/platinum/spotify_200.png'},
+                    {'url':'https://yousician.com', 'img':'/images/sponsorship/platinum/yousician_200.png'},
                     ]
 
 SPONSOR_GOLD_L = [
-                    {'url':'https://www.izotope.com', 'img':'/images/sponsorship/gold/Gold-Izotope_full-logo-blk.jpg'},
-                    {'url':'https://www.steinberg.net', 'img':'/images/sponsorship/gold/Gold-Steinberg_Trademark_2017_RGB_transp_1800px.png'},
+                    {'url':'https://www.izotope.com', 'img':'/images/sponsorship/gold/izotope_200.png'},
+                    {'url':'https://www.jukedeck.com', 'img':'/images/sponsorship/gold/jukedeck_200.png'},
+                    {'url':'https://www.steinberg.net', 'img':'/images/sponsorship/gold/steinberg_200.png'},
                     ]
 
 SPONSOR_SILVER_L = [
-                    {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/Silver-ACRCloud-logo.png'},
+                    {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/acrcloud_200.png'},
                     ]
 
 SPONSOR_BRONZE_L = [
