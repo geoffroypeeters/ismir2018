@@ -40,6 +40,6 @@ Applications close on **June 29, 2018**; notification of acceptance will be made
  
 ### Any questions may be sent to 
 
-- Iris Ren regarding student travel grants: [y.ren@uu.nl](y.ren@uu.nl)
-- Eva Zangerle regarding WiMIR travel grants: [eva.zangerle@uibk.ac.at](eva.zangerle@uibk.ac.at)
+- Iris Ren regarding student travel grants: <y.ren@uu.nl>
+- Eva Zangerle regarding WiMIR travel grants: <eva.zangerle@uibk.ac.at>
 
