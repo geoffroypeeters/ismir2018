@@ -29,7 +29,7 @@ haschild: false
 | Event             			| Date
 |:-------------     			|: -------------
 | Submissions Open  			| July 16, 2018
-| WiMIR recipients LBD draft 	| September 7, 2018
+| WiMIR recipients LBD draft 	| August 10, 2018
 | Submissions Close 			| September 22, 2018
 
 ## Interactive Machine-Learning for Music @Exhibition
