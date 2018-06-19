@@ -7,65 +7,55 @@ order: 1
 parent: participants
 
 
+The main program (oral and poster sessions) will take place at the Cité Internationale Universitaire de Paris (CIUP) in the Adenauer space. [Tutorials]({filename}/pages/eventsTutorials.md) will take place at Télécom ParisTech. [HAMR (Hacking Audio and Music Research)]({filename}/pages/eventsHAMR.md) will take place at Deezer Paris headquarters.
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ay-CpPzOi17MCHUeA44ruXxbkYRpeiXC" width="640" height="480"></iframe>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1CYd2VY_lDkEUDaCRwDq94YWXvvTveYZb" width="640" height="480"></iframe>
+
 ## Cité Internationale Universitaire de Paris (CIUP)
 
 
+The International University Campus in Paris is a private foundation, recognised as being in the public interest since 1925 and closely linked to the Paris universities, which own the buildings and  which are represented at its Management Board by the Rector of the Academy and Chancellor of the Universities of Paris, Acting Vice-President of the Foundation and the Presidents of two universities.
 
-The main program (oral and poster sessions) will take place at the Cité Internationale Universitaire de Paris (CIUP) in the Adenauer space.
+Ever since the Middle Ages the University of Paris has always welcomed students from all over the world. In what they used to call the “College of Nations”. When the international university campus in Paris was created in 1925 it continued this tradition of the Paris universities: a tradition of welcome. The International University Campus in Paris plays a central role in the policy for accepting internationally mobile students in the Ile-de-France. Check [here](http://www.ciup.fr/en/) for more information.
 
-It is located at
+<img src="../images/citeu.png"></TD>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.9990423189533!2d2.3362582511736254!3d48.820079711255886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671a1a98df859%3A0x1c4282bc491b8270!2sCit%C3%A9+internationale+universitaire+de+Paris!5e0!3m2!1sfr!2sfr!4v1507992254146" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<TABLE BORDER=0>
-<TD><img src="../images/ciup_1.png"></TD>
-<TD><img src="../images/ciup_2.png"></TD>
-</TR>
-</TABLE>
 
 
 ## Télécom ParisTech
 
-[Tutorials]({filename}/pages/eventsTutorials.md) will take place at Télécom ParisTech.
+Télécom ParisTech is one of France's leading graduate engineering schools. It is located at 46 rue Barrault, in the 13th
+arrondissement (zone) of Paris in a nice area called “La Butte aux Cailles”, which is often described as a
+traditional village in Paris. The immediate neighborhood is rich of bars, restaurants, shops
+and supermarkets, the closest ones being right in front of the school main entrance, that is no further than 1
+minute walking distance away from the conference rooms.
 
-It is located at
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.673131061616!2d2.344224751173804!3d48.826297810818275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671975e9d2e3d%3A0x17f35deee8ffbbf1!2zVMOpbMOpY29tIFBhcmlzVGVjaA!5e0!3m2!1sfr!2sfr!4v1507992278258" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<TABLE BORDER=0>
-<TD><img src="../images/tpt_1.png"></TD>
-<TD><img src="../images/tpt_2.png"></TD>
-</TR>
-</TABLE>
+Commuting to Telecom ParisTech is very easy thanks to the dense network of public transportation in Paris and
+the numerous metro and bus stations at walking distance (see map above).
 
 
-
-
-
-## Deezer Paris headquarters
-
-[HAMR (Hacking Audio and Music Research)]({filename}/pages/eventsHAMR.md) will take place at Deezer Paris headquarters.
-
-It is located at
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2623.955324483885!2d2.3261833511754455!3d48.87812820716933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e4a3dea325d%3A0x8c5afc188ce6af62!2sDeezer!5e0!3m2!1sfr!2sfr!4v1507992316969" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../images/tpt.png"></TD>
 
 
 ## Tourism
 
-Paris is plenty of monuments, museums, daily activities and night life!
+<img src="../images/paris.png"></TD>
+
+Paris is the capital and most populous city of France. Situated on the river Seine in the north of the country, it is
+in the center of the Île-de-France region, also known as the région parisienne, "Paris Region".
+It is the home of the most visited art museum in the world, the Louvre, as well as the Musée d'Orsay, noted for
+its collection of French Impressionist art, and the Musée National d'Art Moderne, a museum of modern and
+contemporary art. The notable architectural landmarks of Paris include Notre Dame Cathedral (12th
+century); the Sainte-Chapelle (13th century); the Eiffel Tower (1889); and the Basilica of Sacré-Cœur on
+Montmartre (1914). In 2014 Paris received 22.4 million visitors, making it one of the world's top tourist
+destinations. Paris is also known for its fashion, particularly the twice-yearly Paris Fashion Week, and for its
+haute cuisine, and three-star restaurants. Most of France's major universities and grandes écoles are located
+in Paris
+
 
 Check [here](https://en.parisinfo.com/what-to-see-in-paris/monuments) the monuments you can visit in Paris.
 
 Check the museums and other places to visit [here](https://en.parisinfo.com/what-to-see-in-paris).
-
-A list of recommended bars and restaurants next to the main conference venue will be publish soon.
-
-
-<TABLE BORDER=0>
-<TD><img src="../images/p1_.jpg"></TD>
-<TD><img src="../images/p2_.jpg"></TD>
-<TD><img src="../images/p4_.jpg"></TD>
-</TR>
-</TABLE>
