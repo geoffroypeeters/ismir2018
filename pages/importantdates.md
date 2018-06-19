@@ -47,3 +47,9 @@ haschild: false
 | End of Author/Early Registration  | July 6, 2018
 | End of General Registration       | September 22, 2018
 | Start of Onsite Registration      | September 23, 2018
+
+## MeetUp with Industry
+
+| Event                             		| Date
+|:-------------                     		|: -------------
+| Call for Participation for Companies  	| July 18th, 2018
