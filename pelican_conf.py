@@ -118,6 +118,7 @@ MENUITEMS = [
     ('5th International Conference on Digital Libraries for Musicology', 'https://dlfm.web.ox.ac.uk'),
     ('1st Workshop on Music Reading Systems (WoRMS)', 'https://sites.google.com/view/worms2018'),
     ('WiMIR 1st Annual Workshop', 'https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/'),
+    ('Radio 2.0 Webinar Series: From music date to value creation', 'http://www.rr20.fr/webinar-series-2018/mediadata/'),
     ]),
 ('Partners', [
     ('Become an Industry Partner', '/pages/partners-call.html'),
@@ -135,7 +136,7 @@ MENUITEMS = [
 ]
 
 FAVICON_TYPE = 'png'
-FAVICON = '/images/ismir2018logo_black_long.png'
+FAVICON = '/images/ismir2018logo_red_long.png'
 
 
 
