@@ -139,6 +139,10 @@ FAVICON_TYPE = 'png'
 FAVICON = '/images/ismir2018logo_red_long.png'
 
 
+ORGANIZATION_L = [
+                    {'url':'https://www.telecom-paristech.fr/', 'img':'/images/logo_tpt.png'},
+                    {'url':'http://www.ircam.fr', 'img':'/images/logo_ircam.png'},
+                    ]
 
 SPONSOR_PLATINUM_L = [
                     {'url':'http://cnrs.fr/', 'img':'/images/sponsorship/platinum/cnrs_200.png'},
