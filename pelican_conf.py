@@ -97,6 +97,7 @@ MENUITEMS = [
     ('Papers/ Guidelines for Reviewers', '/pages/call-guidelines-reviewers.html'),
     ('Papers/ Information for Presenters', '/pages/call-information-presenters.html'),
     ('Late Breaking Demo/ Call for', '/pages/call-LBD.html'),
+    ['Interactive Machine-Learning for Music @Exhibition/ Call for', '/pages/call-IMLME.html']
     ]),
 ('Participants', [
     ('Registration', '/pages/participants-registration.html'),

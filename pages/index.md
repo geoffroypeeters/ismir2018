@@ -10,6 +10,7 @@ Illustration: black.png
 
 
 ## News
+- Call for participation to the Interactive Machine-Learning for Music @Exhibition is now published [here]({filename}/pages/callIMLME.md)
 - The list of accepted papers for ISMIR-2018 is now available [here]({filename}/pages/eventsMainProgram.md)
 - Call for Financial Supports (Grants) is now published [here]({filename}/pages/participantsFinancialSupports.md)
 - Registration is now open [here]({filename}/pages/participantsRegistration.md)

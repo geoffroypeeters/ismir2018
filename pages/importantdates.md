@@ -36,8 +36,9 @@ haschild: false
 
 | Event             			| Date
 |:-------------     			|: -------------
-| Submission deadline			| June 29, 2018
-| Notification of acceptance	| July 27, 2018
+| Submission deadline			| July 15, 2018
+| Notification of acceptance	| August 3, 2018
+| Authors final camera-ready version of the abstract	| September 3, 2018
 
 
 ## Registration
