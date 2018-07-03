@@ -11,7 +11,7 @@ Please register for ISMIR 2018 at the following link: [https://ismir2018.dakini-
 **Important Note**: if you plan to apply for a student or a WiMIR grant, it is preferable that you wait until the results of the grant attributions are given to you before registering using the above link.
 
 
-| **Student Registration**	| **Tutorial**    	| **Main conference**
+| Student Registration	| Tutorial    	| Main conference
 |:-------------           	|:-------------   	|:-------------
 | Early                   	| 30€               	| 380€             
 | Late						| 40€               	| 480€            
@@ -19,7 +19,7 @@ Please register for ISMIR 2018 at the following link: [https://ismir2018.dakini-
 
 <BR>
 
-| **Standard Registration**	| **Tutorial**    	| **Main conference**
+| Standard Registration	| Tutorial    	| Main conference
 |:-------------           	|:-------------   	|:-------------
 | Early                   	| 50€                | 580€             
 | Late                 		| 60€               	| 680€            

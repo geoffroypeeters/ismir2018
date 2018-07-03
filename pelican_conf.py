@@ -97,7 +97,7 @@ MENUITEMS = [
     ('Papers/ Guidelines for Reviewers', '/pages/call-guidelines-reviewers.html'),
     ('Papers/ Information for Presenters', '/pages/call-information-presenters.html'),
     ('Late Breaking Demo/ Call for', '/pages/call-LBD.html'),
-    ['Interactive Machine-Learning for Music @Exhibition/ Call for', '/pages/call-IMLME.html']
+    ['Music @Exhibition/ Call for', '/pages/call-IMLME.html']
     ]),
 ('Participants', [
     ('Registration', '/pages/participants-registration.html'),
@@ -118,6 +118,7 @@ MENUITEMS = [
     ('HAMR (Hacking Audio and Music Research)', 'https://labrosa.ee.columbia.edu/hamr_ismir2018/'),
     ('5th International Conference on Digital Libraries for Musicology', 'https://dlfm.web.ox.ac.uk'),
     ('1st Workshop on Music Reading Systems (WoRMS)', 'https://sites.google.com/view/worms2018'),
+    ('The New Shape of Audio Branding', 'http://www.audiobrandingworkshop.com'),
     ('WiMIR 1st Annual Workshop', 'https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/'),
     ('Radio 2.0 Webinar Series: From music date to value creation', 'http://www.rr20.fr/webinar-series-2018/mediadata/'),
     ]),
@@ -137,7 +138,7 @@ MENUITEMS = [
 ]
 
 FAVICON_TYPE = 'png'
-FAVICON = '/images/ismir2018logo_red_long.png'
+FAVICON = '/images/ismir2018logo_20180702_logoBlue.png'
 
 
 ORGANIZATION_L = [
@@ -148,6 +149,7 @@ ORGANIZATION_L = [
 SPONSOR_PLATINUM_L = [
                     {'url':'http://cnrs.fr/', 'img':'/images/sponsorship/platinum/cnrs_200.png'},
                     {'url':'https://www.deezer.com/', 'img':'/images/sponsorship/platinum/deezer_200.png'},
+                    {'url':'http://www.gracenote.com/', 'img':'/images/sponsorship/platinum/gracenote_200.jpg'},
                     {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/pandora_200.jpg'},
                     {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/shazam_200.png'},
                     {'url':'https://www.smule.com', 'img':'/images/sponsorship/platinum/smule_200.png'},
@@ -163,6 +165,7 @@ SPONSOR_GOLD_L = [
 
 SPONSOR_SILVER_L = [
                     {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/acrcloud_200.png'},
+                    {'url':'https://www.adobe.com/', 'img':'/images/sponsorship/silver/adobe_200.png'},
                     ]
 
 SPONSOR_BRONZE_L = [
