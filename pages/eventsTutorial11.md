@@ -34,7 +34,8 @@ Markus Schedl is an Associate Professor at the Johannes Kepler University Linz /
 <TD>
 Peter Knees is Assistant Professor of the Faculty of Informatics, TU Wien, Austria. For over a decade he has been an active member of the ISMIR community, reaching out to the related areas of multimedia, text IR, and recommender systems. Apart from serving on the program committees of major conferences in the field, he has organized several workshops on topics of media retrieval.
 He is an experienced teacher of graduate-level courses on recommender systems and information retrieval and has given tutorials on music information retrieval at RecSys, SIGIR, ECIR, RuSSIR, and the Indonesian Summer School on MIR.
-
+<BR>
+<I>The presenter Peter Knees was supported by the Austrian Research Promotion Agency (FFG) under Bridge 1 grant number 858514 (SmarterJam).</I>
 </TD>
 </TR>
 
@@ -48,5 +49,3 @@ Fabien Gouyon is Principal Scientist at the music streaming service Pandora, whe
 </TR>
 
 </TABLE>
-
-

@@ -16,6 +16,11 @@ But hypothesis testing can be very misleading if not well understood. To many re
 
 The goal of this tutorial is to help MIR researchers and developers get a better understanding of how these statistical methods work and how they should be interpreted. Starting from the very beginning of the evaluation process, it will show that statistical analysis is always required, but that too much focus on it, or the incorrect approach, is just harmful. The tutorial will attempt to provide better insight into statistical analysis of results, present better solutions and guidelines, and point the attendees to the larger but ignored problems of evaluation and reproducibility in MIR.
 
+<I>The work presented in this tutorial was supported by the Vienna Science and Technology Fund (WWTF, project MA14-018).
+
+The work presented in this tutorial was supported by the European Commission H2020 project TROMPA (770376-2).</I>
+
+
 <TABLE>
 
 <TR>
@@ -37,4 +42,5 @@ Arthur Flexer is a senior researcher, project manager and vice-head at the `Inte
 </TD>
 </TR>
 
-</TABLE>d
+</TABLE>
+
