@@ -52,7 +52,7 @@ at [Station F](https://stationf.co), the biggest startup campus in the world, in
 ### Speakers (tentatively confirmed):
 
 - Yvan Boudillet, Founder & President, TheLynk
-- Doug Eck, Senior Staff Research Scientist, Google Brain
+- Doug Eck, Principal Scientist at Google, Research Lead at Google Brain
 - Andreas Ehmann, Manager of Research, Pandora
 - Sarah Gasperi, Business Manager France, BMAT
 - Sophie Goossens, Counsel, Reed Smith LLP
