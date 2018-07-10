@@ -13,7 +13,11 @@ parent: about
 | Télécom ParisTech, France | IRCAM, France | Télécom ParisTech, France |
 | ![SlimEssid]({filename}/images/people_slimessid_200.png) | ![GeoffroyPeeters]({filename}/images/people_geoffroypeeters_200.png) | ![GaelRichard]({filename}/images/people_gaelrichard_200.png) |
 
+### Local Organizing Committee
 
+- Alice Cohen-Hadria (IRCAM)- Hadrien Foroughmand (IRCAM)- Magdalena Fuentes (Télécom ParisTech)- Céline Jacques  (IRCAM)- Umut Simsekli (Télécom ParisTech)
+- Andrea Vaglio (Deezer)
+- Salimatou Yansane (Télécom ParisTech)- Laurence Zelmar (Télécom ParisTech)
 ### Program Chairs
 
 | Emilia Gomez | Xiao Hu| Eric Humphrey | Emmanouil Benetos |  
@@ -70,3 +74,4 @@ parent: about
 |: -------------   |: -------------   |: -------------   |
 | Deezer, France | Pandora, USA | Antescofo, France |
 | ![imenaRoyo-Letelier]({filename}/images/people_jimena_200.png) | ![FabienGouyon]({filename}/images/people_gouyon_200.jpg) | ![ArshiaCont]({filename}/images/people_cont_200.jpg) |
+
