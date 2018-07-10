@@ -7,7 +7,7 @@ order: 1
 parent: events
 
 The annual ISMIR (International Society for Music Information Retrieval) Conference is the world’s leading R&D forum for music tech since 2000.
-For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by Antescofo with support from Deezer and Pandora. Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to: 
+For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to: 
 
 - Discover and shape the future of music technology 
 - Connect with and recruit top talent from the MIR community
@@ -18,7 +18,7 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - Showcase and market latest products and services
 
 **What:**
-Half-day event with Industry talks, and networking activities (Full program available soon...)
+Half-day event with networking activities and Industry talks (Full program available soon...)
 
 **When:**
 Thursday September 27, 2018, from 2PM to 6PM
@@ -27,27 +27,40 @@ Thursday September 27, 2018, from 2PM to 6PM
 at [Station F](https://stationf.co), the biggest startup campus in the world, in the heart of Paris
 
 
-### Speakers (tentatively confirmed):
-
-- Yvan Boudillet, Founder & President, TheLynk
-- Oscar Celma, Head of Research, Pandora
-- Doug Eck, Senior Staff Research Scientist, Google Brain
-- Sarah Gasperi, Business Manager France, BMAT
-- Sophie Goossens, Counsel, Reed Smith LLP
-- Eric Humphrey, Senior Machine Learning Researcher, Spotify
-- Ludovic Pouilly, SVP Institutional & Music Industry Relations, Deezer
-
 ### Confirmed company presence
 
+- ACRCloud
 - Antescofo
 - BMAT
 - Deezer
+- FeedForward AI
 - Google
+- Jukedeck
+- Live Nation
+- Native Instruments
+- OneRagtime
 - Pandora
 - Reed Smith LLP
 - Spotify
+- Steinberg
 - TheLynk
+- Yousician
+- Warner Music Group
 - And counting...
+
+
+### Speakers (tentatively confirmed):
+
+- Yvan Boudillet, Founder & President, TheLynk
+- Doug Eck, Principal Scientist at Google, Research Lead at Google Brain
+- Andreas Ehmann, Manager of Research, Pandora
+- Sarah Gasperi, Business Manager France, BMAT
+- Sophie Goossens, Counsel, Reed Smith LLP
+- Angelo Gopee, Managing Director, Live Nation France
+- Stéphanie Hospital, Founder and CEO, OneRagtime
+- Eric Humphrey, Senior Machine Learning Researcher, Spotify
+- Ludovic Pouilly, SVP Institutional & Music Industry Relations, Deezer
+- Tiago Teixeira Correia, Global Digital Business Development Manager - Innovation, Warner Music Group
 
 
 ### Want your company to be seen there?:
