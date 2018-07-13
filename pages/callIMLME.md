@@ -42,7 +42,7 @@ Please send the submission by email to [interactiveml.ismirexhibition@gmail.com]
 
 Dates for:
 
-- Submission July 15, 2018
+- Submission July 22, 2018
 - Notification of acceptance    Aug 3, 2018
 - Authors final camera-ready version of the abstract: September 3 2018
 
