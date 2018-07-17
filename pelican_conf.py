@@ -137,9 +137,10 @@ MENUITEMS = [
           ]),
 ]
 
-FAVICON_TYPE = 'png'
-FAVICON = '/images/ismir2018logo_20180702_logoBlue.png'
-
+#FAVICON_TYPE = 'png'
+#FAVICON = '/images/ismir2018logo_20180702_logoBlue.png'
+FAVICON_TYPE = 'gif'
+FAVICON = '/images/animated_logo.gif'
 
 ORGANIZATION_L = [
                     {'url':'https://www.telecom-paristech.fr/', 'img':'/images/logo_tpt.png'},

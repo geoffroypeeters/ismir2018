@@ -9,7 +9,7 @@ parent: events
 
 Prototype systems, initial concepts, and early results which have not yet fully matured but are of interest to the Music-IR community may be submitted to the Late-Breaking/Demo (LBD) session. Those interested should submit extended abstracts (2 pages maximum) through the submission form. Said abstracts will be submitted through a light peer-review, and those accepted must then be presented as posters during the LBD session on the last day of ISMIR 2018. Submissions will be accepted from July 16, 2018, until September 22, 2018. 
 
-**The submission form will be active after July 16th, 2018.**
+**The [submission form](https://goo.gl/forms/ApA1CLjslyfTXTvK2) will be active after July 16th, 2018.**
 
 ## Important Dates
 
@@ -30,3 +30,6 @@ Prototype systems, initial concepts, and early results which have not yet fully 
 - All submissions will undergo a light peer review.
 - Make sure to use the templates (available for LaTex [Link]({filename}/doc/latex.zip) and Word [Link]({filename}/doc/word.zip) ). Submissions must be in PDF format. If you’re using Word, save the Word document as a PDF. If you’re using LaTeX, you should have a PDF already.
  
+The submission form is here: [https://goo.gl/forms/ApA1CLjslyfTXTvK2](https://goo.gl/forms/ApA1CLjslyfTXTvK2).
+
+Note: The link above will not be accepting submissions until July 16th, 2018.
