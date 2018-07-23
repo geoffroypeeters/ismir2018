@@ -151,6 +151,7 @@ SPONSOR_PLATINUM_L = [
                     {'url':'http://cnrs.fr/', 'img':'/images/sponsorship/platinum/cnrs_200.png'},
                     {'url':'https://www.deezer.com/', 'img':'/images/sponsorship/platinum/deezer_200.png'},
                     {'url':'http://www.gracenote.com/', 'img':'/images/sponsorship/platinum/gracenote_200.jpg'},
+                    {'url':'https://www.native-instruments.com/', 'img':'/images/sponsorship/platinum/nativeinstrument_200.png'},
                     {'url':'https://www.pandora.com/', 'img':'/images/sponsorship/platinum/pandora_200.jpg'},
                     {'url':'https://www.shazam.com/', 'img':'/images/sponsorship/platinum/shazam_200.png'},
                     {'url':'https://www.smule.com', 'img':'/images/sponsorship/platinum/smule_200.png'},
@@ -167,6 +168,8 @@ SPONSOR_GOLD_L = [
 SPONSOR_SILVER_L = [
                     {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/acrcloud_200.png'},
                     {'url':'https://www.adobe.com/', 'img':'/images/sponsorship/silver/adobe_200.png'},
+                    {'url':'', 'img':'/images/sponsorship/silver/feedforwardmusic_200.png'},
+                    {'url':'https://www.google.com/', 'img':'/images/sponsorship/silver/google_200.png'},
                     ]
 
 SPONSOR_BRONZE_L = [
