@@ -22,6 +22,8 @@ At this year's ISMIR, we will hold a WiMIR reception (date and time tba) and wil
 ![Program]({filename}/images/sponsorship/wimir/WiMIR-Large-Spotify.png)
 
 ![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-CCRMA.jpg)
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-Gracenote.jpg)
 ![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-iZotope.jpg)
+![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-NI.png)
 ![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-Shazam.png)
 ![Program]({filename}/images/sponsorship/wimir/WiMIR-Small-Steinberg.png)
