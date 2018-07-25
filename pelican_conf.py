@@ -168,7 +168,7 @@ SPONSOR_GOLD_L = [
 SPONSOR_SILVER_L = [
                     {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/acrcloud_200.png'},
                     {'url':'https://www.adobe.com/', 'img':'/images/sponsorship/silver/adobe_200.png'},
-                    {'url':'', 'img':'/images/sponsorship/silver/feedforwardmusic_200.png'},
+                    {'url':'https://feedforwardai.com', 'img':'/images/sponsorship/silver/feedforwardmusic_200.png'},
                     {'url':'https://www.google.com/', 'img':'/images/sponsorship/silver/google_200.png'},
                     ]
 

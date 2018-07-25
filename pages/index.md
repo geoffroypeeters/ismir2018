@@ -21,7 +21,7 @@ Illustration: black.png
 	- ["Workshop on "The New Shape of Audio Branding"](http://www.audiobrandingworkshop.com) will be held at IRCAM Thursday 2018/09/20
 	- ["5th International Conference on Digital Libraries for Musicology"](https://dlfm.web.ox.ac.uk) will be held at IRCAM Friday 2018/09/28
 	- ["WiMIR 1st Annual Workshop"](https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/ ) will be held at Télécom ParisTech Friday 2018/09/28
-	- ["Radio 2.0 Webinar Series: From music date to value creation"](http://www.rr20.fr/webinar-series-2018/mediadata/) will be held at SACEM headquarters Friday 2018/09/28
+	- ["Radio 2.0 Webinar Series: From music date to value creation"](http://www.rr20.fr/webinar-series-2018/mediadata/) will be held at Vivendi headquarters Friday 2018/09/28
 
 - We are proud to announce our [two keynotes](eventsKeynote.md) for ISMIR-2018:
 	- Rebecca Fiebrink
@@ -40,7 +40,7 @@ It is a join organization between Télécom ParisTech and IRCAM.
 
 The following is a preliminary provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference subject to adaptations.
 
-![Program]({filename}/images/program3.png)
+![Program]({filename}/images/program4.png)
 
 
 

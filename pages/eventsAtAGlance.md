@@ -8,4 +8,4 @@ parent: events
 
 The following is a preliminary provisional planning of the conference subject to adaptations.
 
-![Program]({filename}/images/program3.png)
+![Program]({filename}/images/program4.png)
