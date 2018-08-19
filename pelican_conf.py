@@ -89,29 +89,15 @@ TRANSLATION_FEED_ATOM = None
 
 MENUITEMS = [
 ('Home', '/'),
-('Dates', '/pages/important-dates.html'),
-('Call', [
-    ('Tutorials/ Call for', '/pages/call-tutorials.html'),
-    ('Papers/ Call for', '/pages/call-papers.html'),
-    ('Papers/ Submission', '/pages/call-submission.html'),
-    ('Papers/ Guidelines for Reviewers', '/pages/call-guidelines-reviewers.html'),
-    ('Papers/ Information for Presenters', '/pages/call-information-presenters.html'),
-    ('Late Breaking Demo/ Call for', '/pages/call-LBD.html'),
-    ['Music @Exhibition/ Call for', '/pages/call-IMLME.html']
-    ]),
-('Participants', [
-    ('Registration', '/pages/participants-registration.html'),
-    ('Venue', '/pages/participants-venue.html'),
-    ('Travel', '/pages/participants-travel.html'),
-    ('Financial Supports (Grants)', '/pages/participants-financial-supports.html'),
-    ('Accommodations', '/pages/participants-accommodations.html'),
-    ]),
+('Planning', '/pages/events-at-a-glance.html'),
 ('Events-Main', [
-    ('All events at a glance', '/pages/events-at-a-glance.html'),
-    ('Main Program', '/pages/events-main-program.html'),
+    ('Scientific Program Program', '/pages/events-main-program.html'),
     ('Tutorials', '/pages/events-tutorials.html'),
     ('Keynotes', '/pages/events-keynotes.html'),
     ('Women in MIR (WiMIR) Session', '/pages/events-wimir.html'),
+    ('Social Events', '/pages/events-social.html'),
+    ('Late Breaking Demos Session', '/pages/events-LBD.html'),
+    ('Unconference', '/pages/events-Unconference.html'),
     ('Meetup with Industry', '/pages/events-meetup-industry.html'),
     ]),
 ('Events-Satellite', [
@@ -122,12 +108,27 @@ MENUITEMS = [
     ('WiMIR 1st Annual Workshop', 'https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/'),
     ('Radio 2.0 Webinar Series: From music date to value creation', 'http://www.rr20.fr/webinar-series-2018/mediadata/'),
     ]),
-('Partners', [
-    ('Become an Industry Partner', '/pages/partners-call.html'),
+('Participants', [
+    ('Registration', '/pages/participants-registration.html'),
+    ('Venue', '/pages/participants-venue.html'),
+    ('Travel', '/pages/participants-travel.html'),
+    ('Financial Supports (Grants)', '/pages/participants-financial-supports.html'),
+    ('Accommodations', '/pages/participants-accommodations.html'),
+    ]),
+('Dates', '/pages/important-dates.html'),
+('Call', [
+    ('Tutorials/ Call for', '/pages/call-tutorials.html'),
+    ('Papers/ Call for', '/pages/call-papers.html'),
+    ('Papers/ Submission', '/pages/call-submission.html'),
+    ('Papers/ Guidelines for Reviewers', '/pages/call-guidelines-reviewers.html'),
+    ('Papers/ Information for Presenters', '/pages/call-information-presenters.html'),
+    ('Late Breaking Demo/ Call for', '/pages/call-LBD.html'),
+    ['Music @Exhibition/ Call for', '/pages/call-IMLME.html']
     ]),
 ('About', [
     ('About ISMIR', '/pages/about-ismir.html'),
     ('Organizing Committee', '/pages/about-organizing-committee.html'),
+    ('Become an Industry Partner', '/pages/partners-call.html'),
     ]),
 ('Links', [('Télécom ParisTech', 'https://www.telecom-paristech.fr/'),
             ('IRCAM', 'http://www.ircam.fr'),
@@ -169,10 +170,10 @@ SPONSOR_SILVER_L = [
                     {'url':'https://www.acrcloud.com/', 'img':'/images/sponsorship/silver/acrcloud_200.png'},
                     {'url':'https://www.adobe.com/', 'img':'/images/sponsorship/silver/adobe_200.png'},
                     {'url':'https://feedforwardai.com', 'img':'/images/sponsorship/silver/feedforwardmusic_200.png'},
-                    {'url':'https://www.google.com/', 'img':'/images/sponsorship/silver/google_200.png'},
                     ]
 
 SPONSOR_BRONZE_L = [
+                    {'url':'https://www.google.com/', 'img':'/images/sponsorship/silver/google_200.png'},
                     ]
 
 

@@ -29,8 +29,12 @@ Dr. Flandrin was awarded the Philip Morris Scientific Prize in Mathematics (1991
 
 
 
-##
+## Using Data and Machine Learning to Support Human Musical Practices
 ### Rebecca Fiebrink
+
+It’s 2018, and machine learning seems to suddenly be everywhere: playing Go, driving cars, serving us targeted advertising. Machine learning can compose new folk tunes and synthesise new sounds. What does this mean for those of us who compose or perform new music, or who create new interactions with sound? What does our future hold, besides sitting at home all day listening to algorithmically generated music after robots take our jobs?
+
+In this talk, I’ll invite you to consider what I believe to be a more important and interesting question: How can we instead use machine learning to better support human creative activities? I’ll describe some highlights from my own research and others', including using machine learning and related techniques to support new approaches to musical instrument design, to enable latency-free networked musical performance and personalised audience experiences, and to enable a much broader range of people—from software developers to children to music therapists—to build new musical and sonic interactions. I’ll discuss how machine learning can support human creative practices, for instance by enabling faster prototyping and exploration of new technologies (including by non-programmers), by supporting greater embodied engagement in design, and by changing the ways that creators are able to think about the design process and about themselves. I’ll discuss how these findings inform new ways of thinking about what machine learning is good for, how to make more useful and usable creative machine learning tools, how to teach creative practitioners about machine learning, and what the future of human creative practice might look like.
 
 
 <P>

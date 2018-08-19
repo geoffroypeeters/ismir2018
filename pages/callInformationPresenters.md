@@ -43,7 +43,6 @@ Which means that your oral and poster presentations will occur in the assigned s
 - Authors of the 18 papers assigned to a session are **expected to be near their poster** during this session.
 - Note that posters presented during one morning session, should be installed in the morning **before the opening of the first session** (before 8.30am); posters presented during one afternoon session, should be installed during noon **before the opening of the second session** (before 2.30pm). 
 - All posters must use **portrait orientation** and be no larger than **ISO A0 size** or 36 x 48 inches. Posters can only be hung in Portrait format. There is no poster template.
-- Each of the three days, ends with a specific time slots (Posters 1+2+3, Posters 4+5+6 or Posters 7+8+9) which allows for even more discussion with the authors of the paper.
 - A list of **local poster printing services** is provided below
 
 	- Graphirel [Link](http://graphirel.fr/)
@@ -73,8 +72,8 @@ For the oral presentation: I also receive a position in the queue,
 
 For the poster session: I also receive a place number where to put my poster.
 
-- I prepare my slides for my 4' oral presentation in session-5-oral.
-- I also prepare a poster for session-5-poster.
+- I prepare my slides for my 4' oral presentation in session-E-oral.
+- I also prepare a poster for session-E-poster.
 - Since session-E is Tuesday 2018/09/26, I come early this day to install my poster before the opening of the conference.
 - I also upload my slide presentation to the conference computer before session-E-oral starts.
 - Before session-E-oral starts, I join the queue of all authors that will present their papers in session-E. 

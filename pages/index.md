@@ -10,6 +10,7 @@ Illustration: black.png
 
 
 ## News
+- Detailed provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference is now available
 - Call for participation to the Interactive Machine-Learning for Music @Exhibition is now published [here]({filename}/pages/callIMLME.md)
 - The list of accepted papers for ISMIR-2018 is now available [here]({filename}/pages/eventsMainProgram.md)
 - Call for Financial Supports (Grants) is now published [here]({filename}/pages/participantsFinancialSupports.md)
@@ -37,10 +38,3 @@ Illustration: black.png
 
 The 19th International Society for Music Information Retrieval Conference will take place in Paris, France, from September 23-27, 2018.
 It is a join organization between Télécom ParisTech and IRCAM.
-
-The following is a preliminary provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference subject to adaptations.
-
-![Program]({filename}/images/program4.png)
-
-
-
