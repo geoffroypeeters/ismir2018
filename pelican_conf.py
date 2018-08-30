@@ -173,7 +173,7 @@ SPONSOR_SILVER_L = [
                     ]
 
 SPONSOR_BRONZE_L = [
-                    {'url':'https://www.google.com/', 'img':'/images/sponsorship/silver/google_200.png'},
+                    {'url':'https://www.google.com/', 'img':'/images/sponsorship/bronze/google_200.png'},
                     ]
 
 
