@@ -10,6 +10,7 @@ Illustration: black.png
 
 
 ## News
+- ISMIR-2018 Code of Conduct is available [here]({filename}/pages/coc.md)
 - Detailed provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference is now available
 - Call for participation to the Interactive Machine-Learning for Music @Exhibition is now published [here]({filename}/pages/callIMLME.md)
 - The list of accepted papers for ISMIR-2018 is now available [here]({filename}/pages/eventsMainProgram.md)

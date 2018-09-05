@@ -126,6 +126,7 @@ MENUITEMS = [
     ['Music @Exhibition/ Call for', '/pages/call-IMLME.html']
     ]),
 ('About', [
+    ('Code of Conduct', '/pages/coc.html'),
     ('About ISMIR', '/pages/about-ismir.html'),
     ('Organizing Committee', '/pages/about-organizing-committee.html'),
     ('Become an Industry Partner', '/pages/partners-call.html'),
