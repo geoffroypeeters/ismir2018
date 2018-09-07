@@ -39,7 +39,7 @@ Your paper will be assigned to one of the sessions A, B, C, D, E or F, which mea
 
 In order to avoid any delays related to (the classic) difficulties with connections to the projector, we need you to send us your slides in advance so we can have them ready for you to be projected **using one of the conference computers**.
 
-- **No later than 1 day before your presentation**, please send an email to [ismir2018presentations@gmail.com](mailto:ismir2018presentations@gmail.com):
+- **No later than 1 day before your presentation**, please send an email to the address **...presentation@...**:
 	- using {session_id} as the email subject;
 	- attaching your presentation file, after ensuring that it is named following this pattern: {session_id}_{paper_id}_{family_name}.{ext};
 where:
@@ -52,7 +52,7 @@ where:
 	- A MAC OS system with Keynote 6.6.1.
 
 ## Testing your slides at the conference
-	
+
 - You will get a chance to check that your presentation is working properly on the conference computer **before the beginning of the first session in the morning or in the afternoon**. Please take a look at the table below to know the time-slot for testing corresponding to your session.
 - Using one of the conference computers for your presentation will save you time! Be aware of the fact that during your session, we will start the 4-minute countdown as soon as you are on the stage: so if you spend 2 minutes plugging your computer and starting the full screen mode… you will only have 2 minutes left for your presentation! That would be a pity.
 - In any case, you will only be allowed to use your computer if you have a specific configuration and your presentation is not well rendered by the conference computer. This will be decided before the start of the session (more details below) with the session chair.
@@ -71,8 +71,8 @@ where:
 
 ## When to test my slides and install my poster ?
 
-|                  |  Testing your oral presentation | Installing your poster | 
-|:-------------    |: ------------- 	|: ------------- 
+|                  |  Testing your oral presentation | Installing your poster |
+|:-------------    |: ------------- 	|: -------------
 | Session A        | 07h30-08h30		| 07h30-08h30 or 10h30-11h00
 | Session B        | 12h30-13h30		| 12h30-13h30 or 16h00-16h30
 | Session C        | 08h00-09h00		| 08h00-09h00 or 10h30-11h00
@@ -90,7 +90,7 @@ Let’s assume I’m John Doe and my paper (whose ID is 777) has been assigned t
 - I prepare my slides for my 4-minute oral presentation scheduled in session-E-oral.
 - I also prepare a poster for session-E-poster.
 - Since session-E is Wednesday 2018/09/26 09:00 AM,
-  - no later than Tuesday 2018/09/25 09:00 AM (one day before), I send my presentation file to [ismir2018presentations@gmail.com](mailto:ismir2018presentations@gmail.com), ensuring that the file is named E3_777_doe.pdf (assuming it’s a pdf file) and the subject is E3;
+  - no later than Tuesday 2018/09/25 09:00 AM (one day before), I send my presentation file to **the email-address **...presentation@...**, ensuring that the file is named E3_777_doe.pdf (assuming it’s a pdf file) and the subject is E3;
   - the conference organisation copies my slides to one of the conference computers (PC or MAC depending on the format);
   - I come **1 hour** before the beginning of session E (i.e. 08:00 AM) to test my slides which are ready for me on the conference computer;
 if things go really wrong I’m allowed to use my computer, I have 2 minutes to test the connection of my computer to the video projector.
