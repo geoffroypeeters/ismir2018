@@ -1,4 +1,4 @@
-title: Meetup with Industry 
+title: Meetup with Industry
 author: peeters
 slug: events-meetup-industry
 category:
@@ -6,10 +6,16 @@ tags: eventsMeetupIndustry
 order: 1
 parent: events
 
-The annual ISMIR (International Society for Music Information Retrieval) Conference is the world’s leading R&D forum for music tech since 2000.
-For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to: 
+Join the largest Music Tech R&D Industry Meetup on September 27th in world’s largest startup incubator, StationF in Paris! The event - organized by Antescofo, Pandora and Deezer as part of the International Conference on Music Information Retrieval (ISMIR) - aims at highlighting trends in the Music Industry by world-recognized actors and provide a Networking Environment to foster collaborations.
 
-- Discover and shape the future of music technology 
+We are expecting 300+ participants including startups and global leaders of the Music Industry, with key speeches by world-renowned decision-makers as well as major Industry participation. Confirmed entities include Universal Music Group, Google, Live Nation, Pandora, Deezer, Spotify, BMAT, TheLynk, Reed Smith LLP, SACEM and counting.
+
+## MeetUp ?
+
+The annual ISMIR (International Society for Music Information Retrieval) Conference is the world’s leading R&D forum for music tech since 2000.
+For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to:
+
+- Discover and shape the future of music technology
 - Connect with and recruit top talent from the MIR community
 - Meet world-class experts and explore the current state-of-the-art in music tech. applications
 - Connect with and learn from leading music tech. companies
@@ -95,6 +101,3 @@ Companies who wish to participate even further in the ISMIR conference, and duri
 
 ### Contact:
 Email: [ismir2018-meetup-industry@ismir.net](mailto:ismir2018-meetup-industry@ismir.net)
-
-
-
