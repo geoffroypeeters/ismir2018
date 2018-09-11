@@ -161,7 +161,7 @@ parent: events
   <td rowspan=2 class=xlOfficial width=102><a href="events-keynotes.html">Keynote<br>Patrick Flandrin</a></td>
   <td rowspan=2 class=xlOfficial width=102><a href="events-wimir.html">WiMIR Session</a></td>
   <td rowspan=2 class=xlOfficial width=102><a href="events-keynotes.html">Keynote<br>Rebecca Fiebrinck</a></td>
-  <td rowspan=9 class=xlTutorial width=102><a href="events-meetup-industry.html"><span style='text-decoration:none'>MeetUp with Industry<br>@StationF</span></a></td>
+  <td rowspan=10 class=xlTutorial width=102><a href="events-meetup-industry.html"><span style='text-decoration:none'>MeetUp with Industry<br>@StationF</span></a></td>
   <td></td>
  </tr>
  <tr height=13>
@@ -209,7 +209,6 @@ parent: events
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>18:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
   <td class=xlHour width=102>&nbsp;</td>
   <td class=xlHour width=102>&nbsp;</td>
   <td class=xlHour width=102>&nbsp;</td>
