@@ -8,7 +8,7 @@ parent: events
 
 Join the largest Music Tech R&D Industry Meetup on September 27th in world’s largest startup incubator, StationF in Paris! The event - organized by Antescofo, Pandora and Deezer as part of the International Conference on Music Information Retrieval (ISMIR) - aims at highlighting trends in the Music Industry by world-recognized actors and provide a Networking Environment to foster collaborations.
 
-We are expecting 300+ participants including startups and global leaders of the Music Industry, with key speeches by world-renowned decision-makers as well as major Industry participation. Confirmed entities include Universal Music Group, Google, Live Nation, Pandora, Deezer, Spotify, BMAT, TheLynk, Reed Smith LLP, SACEM and counting.
+We are expecting 300+ participants including startups and global leaders of the Music Industry, with key speeches by world-renowned decision-makers as well as major industry participation. Confirmed entities include Universal Music Group, Google, Pandora, Deezer, Spotify, BMAT, TheLynk, Reed Smith LLP, SACEM and counting.
 
 ## MeetUp ?
 
@@ -35,38 +35,45 @@ at [Station F](https://stationf.co), the biggest startup campus in the world, in
 
 ### Confirmed company presence
 
-- ACRCloud
-- Antescofo
-- BMAT
-- Deezer
-- FeedForward AI
-- Google
-- Jukedeck
-- Live Nation
-- Native Instruments
-- OneRagtime
-- Pandora
-- Reed Smith LLP
-- Spotify
-- Steinberg
-- TheLynk
-- Yousician
-- Warner Music Group
+- [ACRCloud](https://www.acrcloud.com/)
+- [AIMusic](https://www.aimusic.co.uk/)
+- [Antescofo](https://www.antescofo.com/)
+- [Audionamix](https://audionamix.com/)
+- [BMAT](https://www.bmat.com/home)
+- [CNRS](http://www.cnrs.fr/)
+- [Deezer](https://www.deezer.com/en/)
+- [FeedForward AI](https://feedforwardai.com/about/)
+- [Google](https://www.google.com/)
+- [iZotope](https://www.izotope.com/)
+- [Jamset](https://www.jamset.net/)
+- [Jukedeck](https://www.jukedeck.com/)
+- [Landr](https://www.landr.com/en)
+- [Musimap](https://www.musimap.net/)
+- [Native Instruments](https://www.native-instruments.com/en/)
+- [OneRagtime](https://www.oneragtime.com/)
+- [Pandora](http://pandora.com/about)
+- [Reed Smith LLP](https://www.reedsmith.com/en)
+- [SACEM](https://www.sacem.fr/)
+- [Skoove](https://www.skoove.com/en?)
+- [Spotify](https://www.spotify.com/)
+- [Steinberg](https://www.steinberg.net/en/home.html)
+- [TheLynk](https://thelynk.io/)
+- [Universal Music](https://www.universalmusic.com/)
+- [Yousician](https://yousician.com/)
+- [Warner Music Group](http://www.wmg.com/)
 - And counting...
 
 
-### Speakers (tentatively confirmed):
+### Speakers:
 
-- Yvan Boudillet, Founder & President, TheLynk
-- Doug Eck, Principal Scientist at Google, Research Lead at Google Brain
-- Andreas Ehmann, Manager of Research, Pandora
-- Sarah Gasperi, Business Manager France, BMAT
-- Sophie Goossens, Counsel, Reed Smith LLP
-- Angelo Gopee, Managing Director, Live Nation France
-- Stéphanie Hospital, Founder and CEO, OneRagtime
-- Eric Humphrey, Senior Machine Learning Researcher, Spotify
-- Ludovic Pouilly, SVP Institutional & Music Industry Relations, Deezer
-- Tiago Teixeira Correia, Global Digital Business Development Manager - Innovation, Warner Music Group
+- [Yvan Boudillet](https://www.linkedin.com/in/yvanboudillet/?ppe=1), Founder & President, TheLynk
+- [Doug Eck](https://www.linkedin.com/in/douglaseck/), Principal Scientist at Google, Research Lead at Google Brain
+- [Andreas Ehmann](https://www.linkedin.com/in/andreas-ehmann-b388aa5b/), Manager of Research, Pandora
+- [Sarah Gasperi](https://www.linkedin.com/in/sarahgasperi/), Business Manager France, BMAT
+- [Sophie Goossens](https://www.linkedin.com/in/sophie-j-goossens-9094759/), Counsel, Reed Smith LLP
+- [Stéphanie Hospital](https://www.linkedin.com/in/stephaniehospital/), Founder and CEO, OneRagtime
+- [Eric Humphrey](https://www.linkedin.com/in/ejhumphrey/), Machine Learning Engineering Manager, Spotify
+- [Tiago Teixeira Correia](https://www.linkedin.com/in/tiagotcorreia/), Global Digital Business Development Manager - Innovation, Warner Music Group
 
 
 ### Want your company to be seen there?:
