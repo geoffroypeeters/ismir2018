@@ -6,39 +6,29 @@ tags: CIUP
 order: 1
 parent: participants
 
+## ISMIR places
 
-The main program (oral and poster sessions) will take place at the Cit&eacute; Internationale Universitaire de Paris (CIUP) in the Adenauer space. [Tutorials]({filename}/pages/eventsTutorials.md) will take place at T&eacute;l&eacute;com ParisTech. [HAMR (Hacking Audio and Music Research)]({filename}/pages/eventsHAMR.md) will take place at Deezer Paris headquarters.
+ISMIR-2018 will take place in several places in Paris.
+
+- [Scientific Program]({filename}/pages/eventsMainProgram.md), [Keynotes]({filename}/pages/eventsKeynote.md), [WiMIR session]({filename}/pages/eventsWimir.md), [LBD session]({filename}/pages/eventsLBD.md)
+    - Cité Internationale Universitaire de Paris (CIUP) in the Adenauer space [How to get there ?]({filename}/pages/venue_ciup.md)
+- [Tutorials]({filename}/pages/eventsTutorials.md)
+    - Télécom ParisTech [How to get there ?]({filename}/pages/venue_tpt.md)
+- [Unconference]({filename}/pages/eventsUnconference.md)
+    - Télécom ParisTech [How to get there ?]({filename}/pages/venue_tpt.md)
+- [MeetUp with Industry]({filename}/pages/eventsUnconference.md)
+    - Station-F [How to get there ?]({filename}/pages/venue_stationF.md)
+- [Reception]({filename}/pages/eventsSocial.md)
+    - Balajo [How to get there ?]({filename}/pages/venue_balajo.md)
+- [Banquet]({filename}/pages/eventsSocial.md)  
+    - Quai de Grenelle [How to get there ?]({filename}/pages/venue_grenelle.md)
+- [HAMR (Hacking Audio and Music Research)]({filename}/pages/eventsHAMR.md)
+    - Deezer Paris headquarters
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ay-CpPzOi17MCHUeA44ruXxbkYRpeiXC" width="640" height="480"></iframe>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1CYd2VY_lDkEUDaCRwDq94YWXvvTveYZb" width="640" height="480"></iframe>
-
-## Cit&eacute; Internationale Universitaire de Paris (CIUP)
-
-
-The International University Campus in Paris is a private foundation, recognised as being in the public interest since 1925 and closely linked to the Paris universities, which own the buildings and  which are represented at its Management Board by the Rector of the Academy and Chancellor of the Universities of Paris, Acting Vice-President of the Foundation and the Presidents of two universities.
-
-Ever since the Middle Ages the University of Paris has always welcomed students from all over the world. In what they used to call the “College of Nations”. When the international university campus in Paris was created in 1925 it continued this tradition of the Paris universities: a tradition of welcome. The International University Campus in Paris plays a central role in the policy for accepting internationally mobile students in the Ile-de-France. Check [here](http://www.ciup.fr/en/) for more information.
-
-<img src="../images/citeu.png"></TD>
-
-
-
-## T&eacute;l&eacute;com ParisTech
-
-T&eacute;l&eacute;com ParisTech is one of France's leading graduate engineering schools. It is located at 46 rue Barrault, in the 13th
-arrondissement (zone) of Paris in a nice area called “La Butte aux Cailles”, which is often described as a
-traditional village in Paris. The immediate neighborhood is rich of bars, restaurants, shops
-and supermarkets, the closest ones being right in front of the school main entrance, that is no further than 1
-minute walking distance away from the conference rooms.
-
-Commuting to T&eacute;l&eacute;com ParisTech is very easy thanks to the dense network of public transportation in Paris and
-the numerous metro and bus stations at walking distance (see map above).
-
-
-<img src="../images/tpt.png"></TD>
-
 
 ## Tourist Information
 

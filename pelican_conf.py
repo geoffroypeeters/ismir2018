@@ -91,13 +91,14 @@ MENUITEMS = [
 ('Home', '/'),
 ('Planning', '/pages/events-at-a-glance.html'),
 ('Events-Main', [
-    ('Scientific Program Program', '/pages/events-main-program.html'),
+    ('Scientific Program', '/pages/events-main-program.html'),
     ('Tutorials', '/pages/events-tutorials.html'),
     ('Keynotes', '/pages/events-keynotes.html'),
     ('Women in MIR (WiMIR) Session', '/pages/events-wimir.html'),
-    ('Social Events', '/pages/events-social.html'),
     ('Late Breaking Demos Session', '/pages/events-LBD.html'),
     ('Unconference', '/pages/events-Unconference.html'),
+    ('Social Events', '/pages/events-social.html'),
+    ('Interactive Machine-Learning 4 Music Exhibition', '/pages/events-exhibition.html'),
     ('Meetup with Industry', '/pages/events-meetup-industry.html'),
     ]),
 ('Events-Satellite', [
@@ -109,6 +110,7 @@ MENUITEMS = [
     ('Radio 2.0 Webinar Series: From music date to value creation', 'http://www.rr20.fr/webinar-series-2018/mediadata/'),
     ]),
 ('Participants', [
+    ('Papers/ Information for Presenters', '/pages/call-information-presenters.html'),
     ('Registration', '/pages/participants-registration.html'),
     ('Venue', '/pages/participants-venue.html'),
     ('Travel', '/pages/participants-travel.html'),
@@ -121,7 +123,6 @@ MENUITEMS = [
     ('Papers/ Call for', '/pages/call-papers.html'),
     ('Papers/ Submission', '/pages/call-submission.html'),
     ('Papers/ Guidelines for Reviewers', '/pages/call-guidelines-reviewers.html'),
-    ('Papers/ Information for Presenters', '/pages/call-information-presenters.html'),
     ('Late Breaking Demo/ Call for', '/pages/call-LBD.html'),
     ['Music @Exhibition/ Call for', '/pages/call-IMLME.html']
     ]),

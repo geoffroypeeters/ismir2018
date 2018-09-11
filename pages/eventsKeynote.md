@@ -6,10 +6,16 @@ tags: eventsKeynotes
 order: 1
 parent: events
 
-## "Drawing sounds: Fourier, Kœnig, and Scott"
-### Patrick Flandrin 
+**◼ When:** Monday 2018-09-24 and Wednesday 2018-09-26 from 13:30 to 14:30
 
-In his seminal work, first published in 1811, Joseph Fourier was primarily concerned with the building of an analytic theory of heat, but it was realized soon after that the expansion methods he developed for this purpose had potential applications far beyond, in physics as well as in mathematics. This was in particular the case for sounds with, in the middle of the XIXth century, a quest for graphical representations in time and/or in frequency, thanks to dedicated devices. One apparatus designer, Rudolph Kœnig, was particularly instrumental in such studies, in the two domains. On the one hand, he built an actual Fourier analyzer based on resonators, manometric flames and mirrors. On the other hand, he collaborated with Édouard-Léon Scott de Martinville on his project of a « phonautograph » that, in 1857, permitted the first ever recording of a human voice in the form of a graph on a paper sheet. Whereas Scott’s objective was transcription and not restitution, some of his sound graphs have been recently scanned and digitized, allowing us to actually hear him singing. 
+**◼ What:** Keynotes
+
+**◼ Where:** Cité International Universitaire de Paris [How to get there ?]({filename}/pages/venue_ciup.md)
+
+## "Drawing sounds: Fourier, Kœnig, and Scott"
+### Patrick Flandrin
+
+In his seminal work, first published in 1811, Joseph Fourier was primarily concerned with the building of an analytic theory of heat, but it was realized soon after that the expansion methods he developed for this purpose had potential applications far beyond, in physics as well as in mathematics. This was in particular the case for sounds with, in the middle of the XIXth century, a quest for graphical representations in time and/or in frequency, thanks to dedicated devices. One apparatus designer, Rudolph Kœnig, was particularly instrumental in such studies, in the two domains. On the one hand, he built an actual Fourier analyzer based on resonators, manometric flames and mirrors. On the other hand, he collaborated with Édouard-Léon Scott de Martinville on his project of a « phonautograph » that, in 1857, permitted the first ever recording of a human voice in the form of a graph on a paper sheet. Whereas Scott’s objective was transcription and not restitution, some of his sound graphs have been recently scanned and digitized, allowing us to actually hear him singing.
 
 Beyond celebrating this year the 250th birthday of Fourier and reviving the forgotten memory of Scott, intertwining those complementary approaches via Kœnig is believed to offer a way of revisiting issues such as the physical significance of Fourier modes, or the questionable necessity of their use as features in modern recognition systems.
 
@@ -18,9 +24,9 @@ Beyond celebrating this year the 250th birthday of Fourier and reviving the forg
 
 <P>
 <img class="alignleft" src="../images/people_flandrin_200.jpg">
-<strong>Patrick Flandrin</strong> received the engineer degree from ICPI Lyon, France, in 1978, and the Doct.-Ing. and Docteur d’État degrees from INP Grenoble, France, in 1982 and 1987, respectively. He joined CNRS in 1982, where he is currently Research Director. Since 1991, he has been with the Signals, Systems and Physics Group, within the Physics Department at ENS de Lyon, France. He is currently President of GRETSI, the French Association for Signal and Image Processing. 
+<strong>Patrick Flandrin</strong> received the engineer degree from ICPI Lyon, France, in 1978, and the Doct.-Ing. and Docteur d’État degrees from INP Grenoble, France, in 1982 and 1987, respectively. He joined CNRS in 1982, where he is currently Research Director. Since 1991, he has been with the Signals, Systems and Physics Group, within the Physics Department at ENS de Lyon, France. He is currently President of GRETSI, the French Association for Signal and Image Processing.
 
-His research interests include mainly nonstationary signal processing (with emphasis on time-frequency and time-scale methods), scaling stochastic processes and complex systems. He authored two monographs in those areas, the most recent one being Explorations in Time-Frequency Analysis (Cambridge University Press, 2018). 
+His research interests include mainly nonstationary signal processing (with emphasis on time-frequency and time-scale methods), scaling stochastic processes and complex systems. He authored two monographs in those areas, the most recent one being Explorations in Time-Frequency Analysis (Cambridge University Press, 2018).
 Dr. Flandrin was awarded the Philip Morris Scientific Prize in Mathematics (1991), the SPIE Wavelet Pioneer Award (2001), the Prix Michel Monpetit from the French Academy of Sciences (2001), the Silver Medal from CNRS (2010), and the Technical Achievement Award from the IEEE Signal Processing Society (2017). Past Distinguished Lecturer of the IEEE Signal Processing Society (2010-2011), he is a Fellow of the IEEE (2002) and of EURASIP (2009), and he has been elected member of the French Academy of Sciences in 2010.
 </P>
 
