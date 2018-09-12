@@ -19,11 +19,11 @@ In his seminal work, first published in 1811, Joseph Fourier was primarily conce
 
 Beyond celebrating this year the 250th birthday of Fourier and reviving the forgotten memory of Scott, intertwining those complementary approaches via Kœnig is believed to offer a way of revisiting issues such as the physical significance of Fourier modes, or the questionable necessity of their use as features in modern recognition systems.
 
-<img src="../images/fourier_1.jpg">
-<img src="../images/fourier_2.jpg">
+<img src="../images/keynote/fourier_1.jpg">
+<img src="../images/keynote/fourier_2.jpg">
 
 <P>
-<img class="alignleft" src="../images/people_flandrin_200.jpg">
+<img class="alignleft" src="../images/keynote/people_flandrin_200.jpg">
 <strong>Patrick Flandrin</strong> received the engineer degree from ICPI Lyon, France, in 1978, and the Doct.-Ing. and Docteur d’État degrees from INP Grenoble, France, in 1982 and 1987, respectively. He joined CNRS in 1982, where he is currently Research Director. Since 1991, he has been with the Signals, Systems and Physics Group, within the Physics Department at ENS de Lyon, France. He is currently President of GRETSI, the French Association for Signal and Image Processing.
 
 His research interests include mainly nonstationary signal processing (with emphasis on time-frequency and time-scale methods), scaling stochastic processes and complex systems. He authored two monographs in those areas, the most recent one being Explorations in Time-Frequency Analysis (Cambridge University Press, 2018).
@@ -44,7 +44,7 @@ In this talk, I’ll invite you to consider what I believe to be a more importan
 
 
 <P>
-<img class="alignleft" src="../images/people_fiebrink_200.png">
+<img class="alignleft" src="../images/keynote/people_fiebrink_200.png">
 Dr. <strong>Rebecca Fiebrink</strong> is a Senior Lecturer at Goldsmiths, University of London.  Her research focuses on designing new ways for humans to interact with computers in creative practice. As both a computer scientist and a musician, much of her work focuses on applications of machine learning to music: for example, how can machine learning algorithms help people to create new musical instruments and interactions? How does machine learning change the type of musical systems that can be created, the creative relationships between people and technology, and the set of people who can create new technologies? Much of Fiebrink’s work is also driven by a belief in the importance of inclusion, participation, and accessibility. She works frequently with human-centred and participatory design processes, and she is currently working on projects related to creating new accessible technologies with people with disabilities, designing inclusive machine learning curricula and tools, and applying participatory design methodologies in the digital humanities.
 <BR>
 Fiebrink is the developer of the Wekinator, open-source software for real-time interactive machine learning whose current version has been downloaded over 10,000 times. She is the creator of a MOOC titled “Machine Learning for Artists and Musicians,” which launched in 2016 on the Kadenze platform.  She was previously an Assistant Professor at Princeton University, where she co-directed the Princeton Laptop Orchestra. She has worked with companies including Microsoft Research, Sun Microsystems Research Labs, Imagine Research, and Smule. She has performed with a variety of musical ensembles, including as a laptopist in Sideband and Squirrel in the Mirror, the principal flutist in the Timmins Symphony Orchestra, and the keyboardist in the University of Washington computer science rock band "The Parody Bits.” She holds a PhD in Computer Science from Princeton University.

@@ -209,98 +209,98 @@ parent: events
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>18:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>18:30</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>19:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>19:30</td>
   <td rowspan=10 class=xlSocial width=102><a href="events-social.html">Social:<br>Reception<br>@Balajo</a></td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td rowspan=4 class=xlTutorial width=102><a href="events-Unconference.html">Unconference Evening<br>@TPT</a></td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>20:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td rowspan=9 class=xlSocial width=102><a href="events-social.html">Social: <br>Banquet<br>@Seine</a></td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>20:30</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>21:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>21:30</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>22:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>22:30</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>23:00</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>23:30</td>
   <td class=xlWhite width=102>&nbsp;</td>
   <td class=xlWhite width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>24:00</td>
   <td class=xlWhite width=102>&nbsp;</td>
   <td class=xlWhite width=102>&nbsp;</td>
-  <td class=xlHour width=102>&nbsp;</td>
+  <td class=xlWhite width=102>&nbsp;</td>
   <td></td>
  </tr>
 </table>

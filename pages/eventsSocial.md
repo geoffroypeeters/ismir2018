@@ -23,7 +23,7 @@ We will be welcome at the Balajo by [Riton la manivelle](https://www.riton.org) 
 Inside the Balajo, we will have a private concert of [Le Broux Gipsy 4 têtes](https://www.youtube.com/watch?v=VxZE-24g80w), a Gipsy Jazz music band.
 We will also have hors d’oeuvres and drinks.
 
-<img src="../images/balajo.png">
+<img src="../images/venue/balajo.png">
 
 ## ISMIR Banquet and Jam Session
 
@@ -37,4 +37,4 @@ The banquet will happen Wednesday September 26th as a Seine river cruise buffet(
 The cruise dock will be at the root of the Eiffel tower.
 The cruise will be concluded with the first ever ISMIR **Jam Session** on a boat.
 
-<img src="../images/boreas.png">
+<img src="../images/venue/boreas.png">

@@ -18,7 +18,7 @@ To acknowledge these developments, we give an introductory tutorial providing an
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_schedl.jpg">
+<img src="../images/tutorial/tutorial_photo_schedl.jpg">
 </TD>
 <TD>
 Markus Schedl is an Associate Professor at the Johannes Kepler University Linz / Department of Computational Perception. He graduated in Computer Science from the Vienna University of Technology and earned his Ph.D. from the Johannes Kepler University Linz. Markus further studied International Business Administration at the Vienna University of Economics and Business Administration as well as at the Handelshögskolan of the University of Gothenburg, which led to a Master's degree. His main research interests include web and social media mining, information retrieval, multimedia, and music information research. He has been an active member of the MIR community since 14 years and since then co-authored almost 200 peer-reviewed research articles.
@@ -29,7 +29,7 @@ Markus Schedl is an Associate Professor at the Johannes Kepler University Linz /
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_knees.jpg">
+<img src="../images/tutorial/tutorial_photo_knees.jpg">
 </TD>
 <TD>
 Peter Knees is Assistant Professor of the Faculty of Informatics, TU Wien, Austria. For over a decade he has been an active member of the ISMIR community, reaching out to the related areas of multimedia, text IR, and recommender systems. Apart from serving on the program committees of major conferences in the field, he has organized several workshops on topics of media retrieval.
@@ -41,10 +41,10 @@ He is an experienced teacher of graduate-level courses on recommender systems an
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_gouyon.jpg">
+<img src="../images/tutorial/tutorial_photo_gouyon.jpg">
 </TD>
 <TD>
-Fabien Gouyon is Principal Scientist at the music streaming service Pandora, where he does applied research on personalized music recommendation, and works with the Music Genome Project. Before joining Pandora, he received a PhD in Computer Science while working in the Music Technology Group in the University Pompeu Fabra in Barcelona, and was a co-founder of Barcelona Music and Audio Technologies (BMAT), worked in the Austrian Research Institute for Artificial Intelligence in Vienna, and started and led the Sound and Music Computing Group while teaching at the University of Porto. He was President of ISMIR in 2016-2017. 
+Fabien Gouyon is Principal Scientist at the music streaming service Pandora, where he does applied research on personalized music recommendation, and works with the Music Genome Project. Before joining Pandora, he received a PhD in Computer Science while working in the Music Technology Group in the University Pompeu Fabra in Barcelona, and was a co-founder of Barcelona Music and Audio Technologies (BMAT), worked in the Austrian Research Institute for Artificial Intelligence in Vienna, and started and led the Sound and Music Computing Group while teaching at the University of Porto. He was President of ISMIR in 2016-2017.
 </TD>
 </TR>
 

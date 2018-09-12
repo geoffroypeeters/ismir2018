@@ -32,7 +32,7 @@ ISMIR-2018 will take place in several places in Paris.
 
 ## Tourist Information
 
-<img src="../images/paris.png"></TD>
+<img src="../images/venue/paris.png"></TD>
 
 Paris is the capital and most populous city of France. Situated on the river Seine in the north of the country, it is
 in the center of the Île-de-France region, also known as the r&eacute;gion parisienne, "Paris Region".

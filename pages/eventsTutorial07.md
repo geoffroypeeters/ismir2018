@@ -10,7 +10,7 @@ parent: events
 
 **Speakers: Jorge Calvo-Zaragoza, Jan Hajič jr., Alexander Pacha, Ichiro Fujinaga**
 
-**Abstract:** Optical Music Recognition (OMR) is a field of research that investigates how to computationally decode music notation in documents. 
+**Abstract:** Optical Music Recognition (OMR) is a field of research that investigates how to computationally decode music notation in documents.
 As most musical compositions in the Western tradition have been written rather than recorded, bringing this music into the digital domain can significantly diversify the sources for MIR, digital musicology, and more broadly lower the costs of introducing previously unheard works to audiences worldwide.
 While OMR has been regarded as a largely unsolved problem, this situation has recently shifted: new large-scale datasets and tools have been released, methods based on deep learning are successfully dealing with musical symbol detection and partial end-to-end recognition, and applications of OMR such as retrieval have started migrating from article introductions to the Results sections.
 
@@ -26,7 +26,7 @@ The tutorial will be hands-on: if you wish to get the most out of it, be ready t
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_zaragoza.jpg">
+<img src="../images/tutorial/tutorial_photo_zaragoza.jpg">
 </TD>
 <TD>
 Jorge Calvo-Zaragoza received his PhD degree in computer science from the University of Alicante (Spain) in 2016. He joined the Single Interface for Music Score Searching and Analysis (SIMSSA) project as Postdoctoral Fellow in 2017. He is currently the recipient of a Juan de la Cierva postdoctoral grant from the Spanish government. His scientific contribution has focused so far on ancient manuscripts, in notations like neumatic or mensural. He has also made important contributions to the pre-processing of music score images such as the development of algorithms to separate the elementary graphic layers of the document (i.e., staff, notes, text, or background). He has authored more than 20 papers about Optical Music Recognition in peer-reviewed journals and international conferences.
@@ -35,7 +35,7 @@ Jorge Calvo-Zaragoza received his PhD degree in computer science from the Univer
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_hajic.jpg">
+<img src="../images/tutorial/tutorial_photo_hajic.jpg">
 </TD>
 <TD>
 Jan Hajič jr. is a Ph.D. student at Charles University (Czech Republic), where he is working on Optical Music Recognition and Deep Learning since 2016 at the Center of Excellence for Multimodal Data Interpretation project. He has especially contributed to infrastructure for OMR, creating e.g. the first full-pipeline OMR dataset (MUSCIMA++). He also has a strong musical background, having studied composition at the Janáček Academy of Music and Performing Arts.
@@ -44,7 +44,7 @@ Jan Hajič jr. is a Ph.D. student at Charles University (Czech Republic), where 
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_pacha.jpg">
+<img src="../images/tutorial/tutorial_photo_pacha.jpg">
 </TD>
 <TD>
 Alexander Pacha received his M.Sc. with honors in computer science from the TUM, University of Augsburg and LMU Munich (Germany) in 2013. He is a professional software engineer, trainer for clean code programming and a passionate musician and composer. Since 2017 he is a PhD student at the TU Wien (Austria) working on Optical Music Recognition and Deep Learning.
@@ -53,7 +53,7 @@ Alexander Pacha received his M.Sc. with honors in computer science from the TUM,
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_fujinaga.jpg">
+<img src="../images/tutorial/tutorial_photo_fujinaga.jpg">
 </TD>
 <TD>
 Ichiro Fujinaga is an Associate Professor and the Chair of the Music Technology Area at the Schulich School of Music at McGill University.  He has Bachelor's degrees in Music/Percussion and Mathematics from University of Alberta and a Master's degree in Music Theory and a Ph.D. in Music Technology from McGill. He is currently directing a large optical music recognition and analysis project called Single Interface for Music Score Searching and Analysis (SIMSSA).
@@ -61,5 +61,3 @@ Ichiro Fujinaga is an Associate Professor and the Chair of the Music Technology 
 </TR>
 
 </TABLE>
-
-

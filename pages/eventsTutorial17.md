@@ -25,7 +25,7 @@ The work presented in this tutorial was supported by the European Commission H20
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_urbano.jpg">
+<img src="../images/tutorial/tutorial_photo_urbano.jpg">
 </TD>
 <TD>
 Julián Urbano is an Assistant Professor at Delft University of Technology, The Netherlands. His research is primarily concerned with evaluation in IR, working in both the music and text domains. Current topics of interest are the application of statistical methods for the construction of datasets, the reliability of evaluation experiments, statistical significance testing for IR, low-cost evaluation and stochastic simulation for evaluation. He has published over 50 research papers in related venues like Foundations and Trends in IR, the IR Journal, the Journal of Multimedia IR, ISMIR, CMMR, ACM SIGIR, ACM CIKM and ECIR, winning two best paper awards and a best reviewer award. He has been active in the ISMIR community since 2010, both as author and PC member, and is also co-organizer of the MediaEval AcousticBrainz task. He is reviewer for other conferences and journals, such as ACM CIKM, HCOMP, IEEE TASLP, IEEE MM, ACM TWEB, IEEE TKDE or the Information Sciences journal.
@@ -35,7 +35,7 @@ Julián Urbano is an Assistant Professor at Delft University of Technology, The 
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_flexer.jpg">
+<img src="../images/tutorial/tutorial_photo_flexer.jpg">
 </TD>
 <TD>
 Arthur Flexer is a senior researcher, project manager and vice-head at the `Intelligent Music Processing and Machine Learning Group’ of the Austrian Research Institute for Artificial Intelligence (OFAI). He has twenty-five years of experience in basic research on machine learning with an emphasis on applications to music in the last twelve years. He holds a PhD in psychology which provides him with the necessary background concerning design and evaluation of experiments. He has published comprehensively on the role of experiments and on problems of ground truth and inter-rater agreement, all in the field of MIR. He is author and co-author of more than 80 peer-reviewed articles. He has been active in the ISMIR community since 2005 and has also published in related venues like DAFx, SMC, ECIR, Journal of Machine Learning Research and Journal of New Music Research. He is a member of the editorial board of the Transactions of the International Society for Music Information Retrieval (TISMIR).
@@ -43,4 +43,3 @@ Arthur Flexer is a senior researcher, project manager and vice-head at the `Inte
 </TR>
 
 </TABLE>
-

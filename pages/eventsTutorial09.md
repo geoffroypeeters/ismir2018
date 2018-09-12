@@ -20,7 +20,7 @@ Materials for the tutorial: [Link](https://www.upf.edu/web/mtg/non-western-music
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_serra.jpg">
+<img src="../images/tutorial/tutorial_photo_serra.jpg">
 </TD>
 <TD>
 Xavier Serra is a Professor of the Department of Information and Communication Technologies and Director of the Music Technology Group at the Universitat Pompeu Fabra in Barcelona. After a multidisciplinary academic education he obtained a PhD in Computer Music from Stanford University in 1989 with a dissertation on the spectral processing of musical sounds that is considered a key reference in the field. His research interests cover the analysis, description and synthesis of sound and music signals, with a balance between basic and applied research and approaches from both scientific/technological and humanistic/artistic disciplines. Dr. Serra is very active in promoting initiatives in the field of Sound and Music Computing at the local and international levels, being involved in the editorial board of a number of journals and conferences and giving lectures on current and future challenges of the field. He has been awarded an Advanced Grant of the European Research Council to carry out the project CompMusic aimed at promoting multicultural approaches in music computing research which produced the resources this tutorial will present.
@@ -30,7 +30,7 @@ Xavier Serra is a Professor of the Department of Information and Communication 
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_clayton.jpg">
+<img src="../images/tutorial/tutorial_photo_clayton.jpg">
 </TD>
 <TD>
 Martin Clayton is Professor in Ethnomusicology in Durham University. He studied at the School of Oriental and African Studies (SOAS) in London, where he obtained degrees in Music and Hindi (BA, 1988) and Ethnomusicology (PhD, 1993). His research interests include Hindustani (North Indian) classical music, rhythmic analysis, musical entrainment and embodiment, comparative musicology and early field recordings, British-Asian music and Western music in India. He currently directs the research project Interpersonal Entrainment in Music Performance, a collaborative, multidisciplinary effort to understand ensemble sychronisation and coordination cross-culturally.
@@ -39,7 +39,7 @@ Martin Clayton is Professor in Ethnomusicology in Durham University. He studied 
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_bozkurt.jpg">
+<img src="../images/tutorial/tutorial_photo_bozkurt.jpg">
 </TD>
 <TD>
 Barış Bozkurt is a Post-doctoral researcher in the Music Technology Group at the Universitat Pompeu Fabra in Barcelona. In the first phase of his research career, he dedicated to development of signal processing algorithms for speech analysis and synthesis. He has obtained his PhD degree in 2005 from Faculte Polytechnique De Mons, Belgium and also worked in speech industry after his PhD. Since 2007, he has been teaching in Electrical Engineering and Computer Science departments, and carrying research in the fields of audio signal processing and computational musicology.

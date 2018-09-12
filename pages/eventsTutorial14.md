@@ -23,7 +23,7 @@ Finally, we will close with a tour of the Python/MIR ecosystem. This part of the
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_mcfee.jpg">
+<img src="../images/tutorial/tutorial_photo_mcfee.jpg">
 </TD>
 <TD>
 Brian McFee is a Moore-Sloan Fellow at New York University's Center for Data Science and Music and Audio Research Lab (MARL). He received the B.S. degree (2003) in Computer Science from the University of California, Santa Cruz, and M.S. (2008) and Ph.D. (2012) degrees in Computer Science and Engineering from the University of California, San Diego. His work touches on various topics at the intersection of machine learning, information retrieval, and audio analysis. He is an active open source software developer, and the principal maintainer of the librosa package for music and audio signal processing. His favorite genre is "chip-tune", and he likes dogs.
@@ -33,7 +33,7 @@ Brian McFee is a Moore-Sloan Fellow at New York University's Center for Data Sci
 
 <TR>
 <TD>
-<img src="../images/tutorial_photo_kell.jpg">
+<img src="../images/tutorial/tutorial_photo_kell.jpg">
 </TD>
 <TD>
 Thor Kell earned his B.Sc in Computer Science & Music from the University of Victoria in 2011, and an M.A. in Music Technology from McGill in 2015. He has worked for SoundCloud, The Echo Nest, and is currently an engineer at Spotify. His interests include algorithmic music creation as well as track ordering and automatic mixing for DJ sets. His favorite genre is ”post”, and he likes cats.
