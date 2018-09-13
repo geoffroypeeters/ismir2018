@@ -1,4 +1,4 @@
-title: Scientific Program
+title: Scientific program
 author: peeters
 slug: events-main-program
 category:
@@ -6,20 +6,25 @@ tags: eventsMainProgram
 order: 1
 parent: events
 
-**◼ When:** Monday 2018-09-24, Tuesday 2018-09-25, Wednesday 2018-09-26
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Monday 2018-09-24, Tuesday 2018-09-25, Wednesday 2018-09-26
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Scientific Program
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Scientific Program
-
-**◼ Where:** Cité International Universitaire de Paris [How to get there ?]({filename}/pages/venue_ciup.md)
+<P></P>
 
 
 ## Detailed program with PDFs
 
 <TABLE>
 <TR><TH>Session A - Musical objects </TH></TR>
-<TR><TD><B>When: Monday 2018/09/24 / Oral: 9am-10:30am / Poster: 10:30am-12:30am</B></TD></TD>
-<TR><TD><B>Where: CIUP - Adenauer space</B></TD></TD>
-<TR><TD><B>Chair: -</B></TD></TD>
+<TR><TD class=xlGrey>When: Monday 2018-09-24 / Oral from 09:00 to 10:30 / Poster from 11:00 to 12:30</TD></TD>
+<TR><TD class=xlGrey>Chair: Emmanouil Benetos</TD></TD>
 <TR>
 <TD>(A-1) <A HREF="../doc/pdfs/72_Paper.pdf">A Confidence Measure For Key Labelling</A> <BR> Roman B. Gebhardt, Michael Stein and Athanasios Lykartsis <BR></TD>
 </TR>
@@ -76,9 +81,8 @@ parent: events
 </TR>
 <TR><TD><HR></TD></TD>
 <TR><TH>Session B - Generation, visual </TH></TR>
-<TR><TD><B>When: Monday 2018/09/24 / Oral: 2:30pm-4pm / Poster: 4pm-6pm</B></TD></TD>
-<TR><TD><B>Where: CIUP - Adenauer space</B></TD></TD>
-<TR><TD><B>Chair: -</B></TD></TD>
+<TR><TD class=xlGrey>When: Monday 2018-09-24 / Oral from 14:30 to 16:00 / Poster from 16:30 to 18:00</TD></TD>
+<TR><TD class=xlGrey>Chair: Anja Volk</TD></TD>
 <TR>
 <TD>(B-1) <A HREF="../doc/pdfs/1_Paper.pdf">Interactive Arrangement of Chords and Melodies Based on a Tree-Structured Generative Model</A> <BR> Hiroaki Tsushima, Eita Nakamura, Katsutoshi Itoyama and Kazuyoshi Yoshii <BR></TD>
 </TR>
@@ -135,9 +139,8 @@ parent: events
 </TR>
 <TR><TD><HR></TD></TD>
 <TR><TH>Session C - Source separation, symbolic, emotion</TH></TR>
-<TR><TD><B>When: Tuesday 2018/09/25 / Oral: 9am-10:30am / Poster: 10:30am-12:30am</B></TD></TD>
-<TR><TD><B>Where: CIUP - Adenauer space</B></TD></TD>
-<TR><TD><B>Chair: -</B></TD></TD>
+<TR><TD class=xlGrey>When: Tuesday 2018-09-25 / Oral from 09:00 to 10:30 / Poster: from 11:00 to 12:30</TD></TD>
+<TR><TD class=xlGrey>Chair: Eric Humphrey</TD></TD>
 <TR>
 <TD>(C-1) <A HREF="../doc/pdfs/304_Paper.pdf">Deep neural networks with voice entry estimation heuristics for voice separation in symbolic music representations</A> <BR> Reinier de Valk and Tillman Weyde <BR></TD>
 </TR>
@@ -191,9 +194,8 @@ parent: events
 </TR>
 <TR><TD><HR></TD></TD>
 <TR><TH>Session D - Corpora and voice </TH></TR>
-<TR><TD><B>When: Tuesday 2018/09/25 / Oral: 2:30pm-4pm / Poster: 4pm-6pm</B></TD></TD>
-<TR><TD><B>Where: CIUP - Adenauer space</B></TD></TD>
-<TR><TD><B>Chair: -</B></TD></TD>
+<TR><TD class=xlGrey>When: Tuesday 2018-09-25 / Oral: from 14:30pm to 16:00 / Poster: 16:30 to 18:00</TD></TD>
+<TR><TD class=xlGrey>Chair: Xiao Hu</TD></TD>
 <TR>
 <TD>(D-1) <A HREF="../doc/pdfs/220_Paper.pdf">A Crowdsourced Experiment for Tempo Estimation of Electronic Dance Music</A> <BR> Hendrik Schreiber and Meinard Mueller <BR></TD>
 </TR>
@@ -247,9 +249,8 @@ parent: events
 </TR>
 <TR><TD><HR></TD></TD>
 <TR><TH>Session E - Timbre, tagging, similarity, patterns and alignment</TH></TR>
-<TR><TD><B>When: Wednesday 2018/09/26 / Oral: 9am-10:30am / Poster: 10:30am-12:30am</B></TD></TD>
-<TR><TD><B>Where: CIUP - Adenauer space</B></TD></TD>
-<TR><TD><B>Chair: -</B></TD></TD>
+<TR><TD class=xlGrey>When: Wednesday 2018-09-26 / Oral from 09:00 to 10:30 / Poster: from 11:00 to 12:30</TD></TD>
+<TR><TD class=xlGrey>Chair: Bob Sturm</TD></TD>
 <TR>
 <TD>(E-1) <A HREF="../doc/pdfs/75_Paper.pdf">Analysis by classification: A comparative study of annotated and algorithmically extracted patterns in symbolic music data</A> <BR> Iris Yuping Ren, Anja Volk, Wouter Swierstra and Remco Veltkamp <BR></TD>
 </TR>
@@ -303,9 +304,8 @@ parent: events
 </TR>
 <TR><TD><HR></TD></TD>
 <TR><TH>Ssession F - Machine and human learning of music </TH></TR>
-<TR><TD><B>When: Wednesday 2018/09/26 / Oral: 2:30pm-4pm / Poster: 4pm-6pm</B></TD></TD>
-<TR><TD><B>Where: CIUP - Adenauer space</B></TD></TD>
-<TR><TD><B>Chair: -</B></TD></TD>
+<TR><TD class=xlGrey>When: Wednesday 2018-09-26 / Oral from 14:30 to 16:00 / Poster: 16:30 to 18:00</TD></TD>
+<TR><TD class=xlGrey>Chair: Emilia Gomez</TD></TD>
 <TR>
 <TD>(F-1) <A HREF="../doc/pdfs/52_Paper.pdf">Influences on the Social Practices Surrounding Commercial Music Services: A Model for Rich Interactions</A> <BR> Louis Spinelli, Josephine Lau, Liz Pritchard and Jin Ha Lee <BR></TD>
 </TR>

@@ -6,11 +6,17 @@ tags: eventsWimir
 order: 1
 parent: events
 
-**◼ When:** Tuesday 2018-09-25 from 13:30 to 14:30
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Tuesday 2018-09-25 from 13:30 to 14:30
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Women in MIR Session
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Women in MIR Session
-
-**◼ Where:** Cité International Universitaire de Paris [How to get there ?]({filename}/pages/venue_ciup.md)
+<P></P>
 
 
 Hosts: Eva Zangerle, Audrey Laplante

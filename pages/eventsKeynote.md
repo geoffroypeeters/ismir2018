@@ -6,11 +6,18 @@ tags: eventsKeynotes
 order: 1
 parent: events
 
-**◼ When:** Monday 2018-09-24 and Wednesday 2018-09-26 from 13:30 to 14:30
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Monday 2018-09-24 and Wednesday 2018-09-26 from 13:30 to 14:30
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Keynotes
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Keynotes
+<P></P>
 
-**◼ Where:** Cité International Universitaire de Paris [How to get there ?]({filename}/pages/venue_ciup.md)
 
 ## "Drawing sounds: Fourier, Kœnig, and Scott"
 ### Patrick Flandrin

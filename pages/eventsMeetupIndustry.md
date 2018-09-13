@@ -6,11 +6,18 @@ tags: eventsMeetupIndustry
 order: 1
 parent: events
 
-**◼ When:** Thursday 2018/09/27 from 13:30 to 18:00
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Thursday 2018/09/27 from 13:30 to 18:00
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Meetup with Industry: A half-day event with networking activities and Industry talks
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Station F <A HREF="../pages/venueStationF.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Meetup with Industry: A half-day event with networking activities and Industry talks (Full program available soon...)
+<P></P>
 
-**◼ Where:** [Station F](https://stationf.co), the biggest startup campus in the world, in the heart of Paris [How to get there ?]({filename}/pages/venue_stationF.md)
 
 
 Join the largest Music Tech R&D Industry Meetup on September 27th in the world’s largest startup incubator, StationF in Paris! The event --organized by Antescofo, Pandora and Deezer as part of the Conference of International Society for Music Information Retrieval (ISMIR)-- aims at highlighting trends in the Music Industry by world-recognized actors and provide a networking environment to foster collaborations.

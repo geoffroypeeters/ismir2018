@@ -6,15 +6,22 @@ tags: eventsTutorials
 order: 1
 parent: events
 
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Sunday 2018-09-23 from 09:00 to 12:30 and from 14:00 to 17:30
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Tutorials T1, T2, T3, T4, T5, T6, T7, T8
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Télécom ParisTech <A HREF="../pages/venueTPT.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
+
+<P></P>
+
 There will be 4 parallel tutorials in the morning, and another 4 parallel tutorials in the afternoon.
 
 ## Morning Tutorials
 
-**◼ When:** Sunday 2018-09-23 from 09:00 to 12:30
-
-**◼ What:** Tutorials T1, T2, T3, T4
-
-**◼ Where:** Télécom ParisTech [How to get there ?]({filename}/pages/venue_tpt.md)
 
 - T1 (Room B310) [Open Source and Reproducible MIR Research]({filename}/pages/eventsTutorial14.md)
 (Speakers: Brian McFee, Thor Kell)
@@ -30,12 +37,6 @@ There will be 4 parallel tutorials in the morning, and another 4 parallel tutori
 
 
 ## Afternoon Tutorials
-
-**◼ When:** Sunday 2018-09-23 from 14:00 to 17:30
-
-**◼ What:** Tutorials T5, T6, T7, T8
-
-**◼ Where:** Télécom ParisTech [How to get there ?]({filename}/pages/venue_tpt.md)
 
 - T5 (Room Estaunié) [Deep Learning for MIR]({filename}/pages/eventsTutorial04.md)
 (Speakers: Alexander Schindler, Thomas Lidy, Sebastian Böck)

@@ -10,11 +10,17 @@ In addition to the academic focus of ISMIR, we are offering a number of unique s
 
 ## Welcome Reception
 
-**◼ When:** Sunday 2018-09-23 from 19:30 to 24:00
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Sunday 2018-09-23 from 19:30 to 24:00
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Welcome Reception
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+The Balajo <A HREF="../pages/venueBalajo.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Welcome Reception
-
-**◼ Where:** The Balajo [How to get there ?]({filename}/pages/venue_balajo.md)
+<P></P>
 
 The welcome reception will happen at the Balajo on Sunday September 23rd.
 The Balajo is a historical dancing-hall in the Bastille neighbourhood opened in 1936.
@@ -25,13 +31,19 @@ We will also have hors d’oeuvres and drinks.
 
 <img src="../images/venue/balajo.png">
 
-## ISMIR Banquet and Jam Session
+## Banquet and Jam Session
 
-**◼ When:** Wednesday 2018-09-26 from 20:00 to 24:00
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Wednesday 2018-09-26 from 20:00 to 02:00
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Banquet and Jam Session
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Quai de Grenelle <A HREF="../pages/venueGrenelle.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Banquet
-
-**◼ Where:** Quai de Grenelle [How to get there ?]({filename}/pages/venue_grenelle.md)
+<P></P>
 
 The banquet will happen Wednesday September 26th as a Seine river cruise buffet(with views over all the most famous Paris buildings).
 The cruise dock will be at the root of the Eiffel tower.

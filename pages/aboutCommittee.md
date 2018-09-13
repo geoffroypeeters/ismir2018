@@ -15,9 +15,17 @@ parent: about
 
 ### Local Organizing Committee
 
-- Alice Cohen-Hadria (IRCAM)- Hadrien Foroughmand (IRCAM)- Magdalena Fuentes (Télécom ParisTech)- Céline Jacques  (IRCAM)- Umut Simsekli (Télécom ParisTech)
+- Hugo Caracalla (IRCAM)
+- Alice Cohen-Hadria (IRCAM)
+- Hadrien Foroughmand (IRCAM)
+- Magdalena Fuentes (Télécom ParisTech)
+- Céline Jacques  (IRCAM)
+- Mathieu Prang (IRCAM)
+- Umut Simsekli (Télécom ParisTech)
 - Andrea Vaglio (Deezer)
-- Salimatou Yansane (Télécom ParisTech)- Laurence Zelmar (Télécom ParisTech)
+- Salimatou Yansane (Télécom ParisTech)
+- Laurence Zelmar (Télécom ParisTech)
+
 ### Program Chairs
 
 | Emilia Gomez | Xiao Hu| Eric Humphrey | Emmanouil Benetos |  
@@ -27,7 +35,7 @@ parent: about
 
 ### Tutorial Chair
 
-| Hélène Papadopoulos| Meinard Mueller |
+| Hélène C. Crayencour| Meinard Mueller |
 |: -------------   |: -------------   |
 | CNRS, France | Audio Labs, Erlangen |
 | ![HélènePapadopoulos]({filename}/images/organizing/unknown_200.png) | ![MeinardMueller]({filename}/images/organizing/people_mueller_200.jpg) |

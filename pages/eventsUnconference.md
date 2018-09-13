@@ -1,4 +1,4 @@
-title: Unconference
+title: Unconference evening
 author: peeters
 slug: events-Unconference
 category:
@@ -6,11 +6,17 @@ tags: eventsUnconference
 order: 2
 parent: events
 
-**◼ When:** Tuesday 2018-09-25 from 19:30 to 21:30
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Tuesday 2018-09-25 from 19:30 to 21:30
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Unconference evening
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Télécom ParisTech <A HREF="../pages/venueTPT.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Unconference evening
-
-**◼ Where:** Télécom ParisTech [How to get there ?]({filename}/pages/venue_tpt.md)
+<P></P>
 
 
 As in previous years, we will have a special “Unconference” in which participants break up into smaller groups to discuss Music-IR issues of particular interest.

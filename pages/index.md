@@ -10,6 +10,9 @@ Illustration: black.png
 
 
 ## News
+- The full program of the ``Meetup with Industry" event is now available [here]({filename}/pages/eventsMeetupIndustry.md)
+- Selected works for the Interactive Machine-Learning for Music @Exhibition are now published [here]({filename}/pages/eventsExhibition.md)
+- Detailed program with PDFs is now available [here]({filename}/pages/eventsMainProgram.md)
 - ISMIR-2018 Code of Conduct is available [here]({filename}/pages/coc.md)
 - Detailed provisional [planning]({filename}/pages/eventsAtAGlance.md) of the conference is now available
 - Call for participation to the Interactive Machine-Learning for Music @Exhibition is now published [here]({filename}/pages/callIMLME.md)

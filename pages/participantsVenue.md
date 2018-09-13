@@ -18,9 +18,9 @@ ISMIR-2018 will take place in several places in Paris.
     - Télécom ParisTech [How to get there ?]({filename}/pages/venue_tpt.md)
 - [MeetUp with Industry]({filename}/pages/eventsUnconference.md)
     - Station-F [How to get there ?]({filename}/pages/venue_stationF.md)
-- [Reception]({filename}/pages/eventsSocial.md)
+- [Welcome Reception]({filename}/pages/eventsSocial.md)
     - Balajo [How to get there ?]({filename}/pages/venue_balajo.md)
-- [Banquet]({filename}/pages/eventsSocial.md)  
+- [Banquet and Jam Session]({filename}/pages/eventsSocial.md)  
     - Quai de Grenelle [How to get there ?]({filename}/pages/venue_grenelle.md)
 - [HAMR (Hacking Audio and Music Research)]({filename}/pages/eventsHAMR.md)
     - Deezer Paris headquarters

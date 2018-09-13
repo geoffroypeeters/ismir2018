@@ -6,11 +6,18 @@ tags: eventsExhibition
 order: 1
 parent: events
 
-**◼ When:** Monday 2018-09-24, Tuesday 2018-09-25, Wednesday 2018-09-26
+<TABLE>
+<TR><TD class=xlDate>When</TD><TD class=xlGrey>
+Monday 2018-09-24, Tuesday 2018-09-25, Wednesday 2018-09-26
+</TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
+Interactive Machine-Learning for Music @Exhibition
+</TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+</TD></TR>
+</TABLE>
 
-**◼ What:** Interactive Machine-Learning for Music @Exhibition
+<P></P>
 
-**◼ Where:** Cité International Universitaire de Paris [How to get there ?]({filename}/pages/venue_ciup.md)
 
 The Interactive Machine-Learning for Music @Exhibition presents four installations, that have been chosen after on a specific call.
 These installations showcases the use of machine learning and other MIR techniques in music composition and performance.
