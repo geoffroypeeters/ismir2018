@@ -10,9 +10,9 @@ parent: events
 <TR><TD class=xlDate>When</TD><TD class=xlGrey>
 Thursday 2018/09/27 from 13:30 to 18:00
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
-Meetup with Industry: A half-day event with networking activities and Industry talks
+Meetup with Industry: A half-day event with networking activities and Industry talks (Full program available soon...)
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Station F <A HREF="../pages/venueStationF.html">How to get there ?</A>
+<A HREF="https://stationf.co"'">Station F</A> <A HREF="../pages/venueStationF.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 
@@ -27,7 +27,7 @@ We are expecting 300+ participants including startups and global leaders of the 
 ## MeetUp ?
 
 The annual ISMIR (International Society for Music Information Retrieval) Conference is the world’s leading R&D forum for music tech since 2000.
-For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to:
+For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/about). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to:
 
 - Discover and shape the future of music technology
 - Connect with and recruit top talent from the MIR community
@@ -36,15 +36,6 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - Discover music startups leveraging latest technologies in a variety of music applications
 - Exchange with other players and startups in the music industry
 - Showcase and market latest products and services
-
-**What:**
-Half-day event with networking activities and Industry talks (Full program available soon...)
-
-**When:**
-Thursday September 27, 2018, from 2PM to 6PM
-
-**Where:**
-at [Station F](https://stationf.co), the biggest startup campus in the world, in the heart of Paris
 
 
 ### Confirmed company presence
