@@ -10,7 +10,7 @@ parent: events
 
 **◼ What:** Meetup with Industry: A half-day event with networking activities and Industry talks (Full program available soon...)
 
-**◼ Where:** [Station F](https://stationf.co), the biggest startup campus in the world, in the heart of Paris [How to get there ?]({filename}/pages/venue_stationF.md)
+**◼ Where:** [Station F](https://stationf.co), the biggest startup campus in the world, in the heart of Paris ([How to get there ?]({filename}/pages/venue_stationF.md))
 
 
 Join the largest Music Tech R&D Industry Meetup on September 27th in the world’s largest startup incubator, StationF in Paris! The event --organized by Antescofo, Pandora and Deezer as part of the Conference of International Society for Music Information Retrieval (ISMIR)-- aims at highlighting trends in the Music Industry by world-recognized actors and provide a networking environment to foster collaborations.
@@ -20,7 +20,7 @@ We are expecting 300+ participants including startups and global leaders of the 
 ## MeetUp ?
 
 The annual ISMIR (International Society for Music Information Retrieval) Conference is the world’s leading R&D forum for music tech since 2000.
-For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to:
+For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/about). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to:
 
 - Discover and shape the future of music technology
 - Connect with and recruit top talent from the MIR community
@@ -29,15 +29,6 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - Discover music startups leveraging latest technologies in a variety of music applications
 - Exchange with other players and startups in the music industry
 - Showcase and market latest products and services
-
-**What:**
-Half-day event with networking activities and Industry talks (Full program available soon...)
-
-**When:**
-Thursday September 27, 2018, from 2PM to 6PM
-
-**Where:**
-at [Station F](https://stationf.co), the biggest startup campus in the world, in the heart of Paris
 
 
 ### Confirmed company presence
