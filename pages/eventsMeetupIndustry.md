@@ -39,7 +39,21 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 
 ### Program
 
-[Link]({filename}/doc/meetup-program.pdf)
+<img src="../images/meetup/Program.png">
+
+### Speakers:
+
+- [Yvan Boudillet](https://www.linkedin.com/in/yvanboudillet/?ppe=1), Founder & President, TheLynk
+- [Doug Eck](https://www.linkedin.com/in/douglaseck/), Principal Scientist at Google, Research Lead at Google Brain
+- [Andreas Ehmann](https://www.linkedin.com/in/andreas-ehmann-b388aa5b/), Manager of Research, Pandora
+- [Sarah Gasperi](https://www.linkedin.com/in/sarahgasperi/), Business Manager France, BMAT
+- [Emilia Gómez](https://www.linkedin.com/in/emilia-g%C3%B3mez-4782816/), President, International Society for Music Information Retrieval
+- [Angelo Gopee](https://www.linkedin.com/in/angelo-gopee-14126242/), Managing Director, Live Nation France
+- [Sophie Goossens](https://www.linkedin.com/in/sophie-j-goossens-9094759/), Counsel, Reed Smith LLP
+- [Stéphanie Hospital](https://www.linkedin.com/in/stephaniehospital/), Founder and CEO, OneRagtime
+- [Eric Humphrey](https://www.linkedin.com/in/ejhumphrey/), Machine Learning Engineering Manager, Spotify
+- [Tiago Teixeira Correia](https://www.linkedin.com/in/tiagotcorreia/), Global Digital Business Development Manager - Innovation, Warner Music Group
+
 
 ### Confirmed company presence
 
@@ -73,19 +87,6 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - [Warner Music Group](http://www.wmg.com/)
 - And counting...
 
-
-### Speakers:
-
-- [Yvan Boudillet](https://www.linkedin.com/in/yvanboudillet/?ppe=1), Founder & President, TheLynk
-- [Doug Eck](https://www.linkedin.com/in/douglaseck/), Principal Scientist at Google, Research Lead at Google Brain
-- [Andreas Ehmann](https://www.linkedin.com/in/andreas-ehmann-b388aa5b/), Manager of Research, Pandora
-- [Sarah Gasperi](https://www.linkedin.com/in/sarahgasperi/), Business Manager France, BMAT
-- [Emilia Gómez](https://www.linkedin.com/in/emilia-g%C3%B3mez-4782816/), President, International Society for Music Information Retrieval
-- [Angelo Gopee](https://www.linkedin.com/in/angelo-gopee-14126242/), Managing Director, Live Nation France
-- [Sophie Goossens](https://www.linkedin.com/in/sophie-j-goossens-9094759/), Counsel, Reed Smith LLP
-- [Stéphanie Hospital](https://www.linkedin.com/in/stephaniehospital/), Founder and CEO, OneRagtime
-- [Eric Humphrey](https://www.linkedin.com/in/ejhumphrey/), Machine Learning Engineering Manager, Spotify
-- [Tiago Teixeira Correia](https://www.linkedin.com/in/tiagotcorreia/), Global Digital Business Development Manager - Innovation, Warner Music Group
 
 
 ### Want your company to be seen there?:
