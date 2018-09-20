@@ -8,11 +8,11 @@ parent: events
 
 <TABLE>
 <TR><TD class=xlDate>When</TD><TD class=xlGrey>
-Thursday 2018/09/27 from 13:30 to 18:00
+Thursday 2018/09/27 from 14:00 to 18:00
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
-Meetup with Industry: A half-day event with networking activities and Industry talks (Full program available soon...)
+A half-day event with networking activities and Industry talks
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-<A HREF="https://stationf.co"'">Station F</A> <A HREF="../pages/venue-station-f.html">How to get there ?</A>
+<A HREF="https://stationf.co"'">Station F, </A> <A HREF="../pages/venueStationF.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 
@@ -20,14 +20,14 @@ Meetup with Industry: A half-day event with networking activities and Industry t
 
 
 
-Join the largest Music Tech R&D Industry Meetup on September 27th in the world’s largest startup incubator, StationF in Paris! The event --organized by Antescofo, Pandora and Deezer as part of the Conference of International Society for Music Information Retrieval (ISMIR)-- aims at highlighting trends in the Music Industry by world-recognized actors and provide a networking environment to foster collaborations.
+Join the largest Music Tech R&D Industry Meetup on September 27th in the world’s largest startup incubator, Station F in Paris! The event --organized by Antescofo, Pandora and Deezer as part of the Conference of International Society for Music Information Retrieval (ISMIR)-- aims at highlighting trends in the Music Industry by world-recognized actors and provide a networking environment to foster collaborations.
 
-We are expecting 300+ participants including startups and global leaders of the Music Industry, with key speeches by world-renowned decision-makers as well as major industry participation. Confirmed entities include Universal Music Group, Google, Pandora, Deezer, Spotify, BMAT, TheLynk, Reed Smith LLP, SACEM and counting.
+We are expecting 300+ participants including startups and global leaders of the Music Industry, with key speeches by world-renowned decision-makers as well as major industry participation.
 
 ## MeetUp ?
 
 The annual ISMIR (International Society for Music Information Retrieval) Conference is the world’s leading R&D forum for music tech since 2000.
-For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/about). Whether you are music tech company, a researcher, or a music industry practitioner, this event is for you. This will be a unique **networking platform**, and a perfect opportunity to:
+For the first time, the 2018 edition in Paris will include a Meetup with Industry, organized by [Antescofo](https://www.antescofo.com/) with support from [Deezer](https://www.deezer.com/en/) and [Pandora](https://www.pandora.com/about). Whether you are music tech company, a researcher, or working in the music industry, and interested in innovation and R&D, this event is for **you**. This will be a unique **networking platform**, and a perfect opportunity to:
 
 - Discover and shape the future of music technology
 - Connect with and recruit top talent from the MIR community
@@ -37,6 +37,8 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - Exchange with other players and startups in the music industry
 - Showcase and market latest products and services
 
+### Program
+TBD
 
 ### Confirmed company presence
 
@@ -48,11 +50,13 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - [CNRS](http://www.cnrs.fr/)
 - [Deezer](https://www.deezer.com/en/)
 - [FeedForward AI](https://feedforwardai.com/about/)
+- [Forward Labs](https://www.forward-labs.com/)
 - [Google](https://www.google.com/)
 - [iZotope](https://www.izotope.com/)
 - [Jamset](https://www.jamset.net/)
 - [Jukedeck](https://www.jukedeck.com/)
 - [Landr](https://www.landr.com/en)
+- [Live Nation](https://www.livenation.com/)
 - [Musimap](https://www.musimap.net/)
 - [Native Instruments](https://www.native-instruments.com/en/)
 - [OneRagtime](https://www.oneragtime.com/)
@@ -75,6 +79,8 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - [Doug Eck](https://www.linkedin.com/in/douglaseck/), Principal Scientist at Google, Research Lead at Google Brain
 - [Andreas Ehmann](https://www.linkedin.com/in/andreas-ehmann-b388aa5b/), Manager of Research, Pandora
 - [Sarah Gasperi](https://www.linkedin.com/in/sarahgasperi/), Business Manager France, BMAT
+- [Emilia Gómez](https://www.linkedin.com/in/emilia-g%C3%B3mez-4782816/), President, International Society for Music Information Retrieval
+- [Angelo Gopee](https://www.linkedin.com/in/angelo-gopee-14126242/), Managing Director, Live Nation France
 - [Sophie Goossens](https://www.linkedin.com/in/sophie-j-goossens-9094759/), Counsel, Reed Smith LLP
 - [Stéphanie Hospital](https://www.linkedin.com/in/stephaniehospital/), Founder and CEO, OneRagtime
 - [Eric Humphrey](https://www.linkedin.com/in/ejhumphrey/), Machine Learning Engineering Manager, Spotify
