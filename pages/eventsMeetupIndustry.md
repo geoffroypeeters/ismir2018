@@ -38,7 +38,8 @@ For the first time, the 2018 edition in Paris will include a Meetup with Industr
 - Showcase and market latest products and services
 
 ### Program
-TBD
+
+[Link]({filename}/doc/meetup-program.pdf)
 
 ### Confirmed company presence
 
