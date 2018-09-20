@@ -25,7 +25,7 @@ parent: events
   <td class=xlSatellite width=102><a href="https://sites.google.com/view/worms2018">WoRMS<br>@CNAM</a></td>
   <td class=xlSatellite width=102><a href="https://labrosa.ee.columbia.edu/hamr_ismir2018/">HAMR<br>@Deezer</a></td>
   <td class=xlSatellite width=102><a href="https://labrosa.ee.columbia.edu/hamr_ismir2018/">HAMR<br>@Deezer</a></td>
-  <td class=xlTutorial width=102><a href="events-Tutorials.html">Tutorials<br>@TPT</a></td>
+  <td class=xlTutorial width=102><a href="events-tutorials.html">Tutorials<br>@TPT</a></td>
  </tr>
  <tr class=xl24 height=45>
   <td height=45 class=xlGrey>&nbsp;</td>
@@ -34,7 +34,7 @@ parent: events
   <td class=xlSatellite width=102><a href="http://www.audiobrandingworkshop.com">New Shape of Audio Branding<br>@IRCAM</a></td>
   <td class=xlGrey width=102>&nbsp;</td>
   <td class=xlGrey>&nbsp;</td>
-  <td class=xlSocial width=102><a href="events-Social.html">Welcome reception<br>@Balajo</a></td>
+  <td class=xlSocial width=102><a href="events-social.html">Welcome reception<br>@Balajo</a></td>
  </tr>
  <tr class=xl24 height=45>
   <td height=45 class=xlDate width=102>Monday<br>2018-09-24</td>
@@ -56,8 +56,8 @@ parent: events
  </tr>
  <tr class=xl24 height=45>
   <td height=45 class=xlGrey width=102>&nbsp;</td>
-  <td class=xlSocial width=102><a href="events-Unconference.html">Unconference evening @TPT</a></td>
-  <td class=xlSocial width=102><a href="events-Social.html">Banquet<br>@Seine</a></td>
+  <td class=xlSocial width=102><a href="events-unconference.html">Unconference evening @TPT</a></td>
+  <td class=xlSocial width=102><a href="events-social.html">Banquet<br>@Seine</a></td>
   <td class=xlSocial width=102><a href="events-meetup-industry.html">MeetUp Industry @StationF</a></td>
   <td class=xlSatellite width=102><a href="https://wimir.wordpress.com/2018/05/21/wimir-1st-annual-workshop/">WiMIR Workshop<br>@TPT</a></td>
   <td class=xlGrey>&nbsp;</td>
@@ -89,14 +89,15 @@ parent: events
   <td class=xlHour height=13 width=102>08:00</td>
   <td class=xlWhite rowspan=2 width=102 style='border-bottom:.5pt solid silver'>Registration</td>
   <td class=xlWhite width=102>Registration</td>
+  <td class=xlWhite width=102>Registration</td>
   <td class=xlWhite rowspan=2 width=102>Registration</td>
   <td class=xlWhite rowspan=2 width=102>Registration</td>
-  <td class=xlGrey rowspan=2 width=102>&nbsp;</td>
   <td></td>
  </tr>
  <tr height=13>
   <td class=xlHour height=13 width=102>08:30</td>
   <td class=xlOfficial width=102>Welcome</td>
+  <td class=xlOfficial width=102>Presentation of the <a href="events-exhibition.html">IML4M @Exhibition</A></td>  
   <td></td>
  </tr>
  <tr height=13>
@@ -105,7 +106,7 @@ parent: events
   <td rowspan=3 class=xlScientific width=102><a href="events-main-program.html">Session A - Musical objects<br>Oral</a></td>
   <td rowspan=3 class=xlScientific width=102><a href="events-main-program.html">Session C - Source separation, symbolic, emotion<br>Oral</a></td>
   <td rowspan=3 class=xlScientific width=102><a href="events-main-program.html">Session E - Timbre, tagging, similarity, patterns and alignment<br>Oral</a></td>
-  <td rowspan=3 class=xlTutorial width=102><a href="events-LBD.html">Late-Breaking Demos session</a></td>
+  <td rowspan=3 class=xlTutorial width=102><a href="events-lbd.html">Late-Breaking Demos session</a></td>
   <td></td>
  </tr>
  <tr height=13>
@@ -121,7 +122,7 @@ parent: events
   <td class=xlBreak width=102>Coffee break</td>
   <td class=xlBreak width=102>Coffee break</td>
   <td class=xlBreak width=102>Coffee break</td>
-  <td class=xlTutorial width=102><a href="events-Unconference.html">Unconference debriefing</a></td>
+  <td class=xlBreak width=102>Coffee break</td>
   <td></td>
  </tr>
  <tr height=13>
@@ -129,11 +130,12 @@ parent: events
   <td rowspan=3 class=xlScientific width=102><a href="events-main-program.html">Session A - Musical objects<br>Poster</a></td>
   <td rowspan=3 class=xlScientific width=102><a href="events-main-program.html">Session C - Source separation, symbolic, emotion<br>Poster</a></td>
   <td rowspan=3 class=xlScientific width=102><a href="events-main-program.html">Session E - Timbre, tagging, similarity, patterns and alignment<br>Poster</a></td>
-  <td rowspan=2 class=xlOfficial width=102 style='border-bottom:.5pt solid silver'>Society business meeting</td>
+  <td class=xlTutorial width=102><a href="events-unconference.html">Unconference debriefing</a></td>
   <td></td>
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>11:30</td>
+  <td rowspan=1 class=xlOfficial width=102 style='border-bottom:.5pt solid silver'>Society business meeting</td>
   <td></td>
  </tr>
  <tr height=13>
@@ -235,7 +237,7 @@ parent: events
   <td height=13 class=xlHour width=102>19:30</td>
   <td rowspan=10 class=xlSocial width=102><a href="events-social.html">Welcome reception<br>@Balajo</a></td>
   <td class=xlGrey width=102>&nbsp;</td>
-  <td rowspan=4 class=xlSocial width=102><a href="events-Unconference.html">Unconference evening<br>@TPT</a></td>
+  <td class=xlGrey width=102>&nbsp;</td>
   <td class=xlGrey width=102>&nbsp;</td>
   <td class=xlGrey width=102>&nbsp;</td>
   <td></td>
@@ -243,6 +245,7 @@ parent: events
  <tr height=13>
   <td height=13 class=xlHour width=102>20:00</td>
   <td class=xlGrey width=102>&nbsp;</td>
+  <td rowspan=4 class=xlSocial width=102><a href="events-unconference.html">Unconference evening<br>@TPT</a></td>
   <td rowspan=9 class=xlSocial width=102><a href="events-social.html">Banquet and Jam Session<br>@Seine</a></td>
   <td class=xlGrey width=102>&nbsp;</td>
   <td></td>
@@ -261,7 +264,6 @@ parent: events
  </tr>
  <tr height=13>
   <td height=13 class=xlHour width=102>21:30</td>
-  <td class=xlGrey width=102>&nbsp;</td>
   <td class=xlGrey width=102>&nbsp;</td>
   <td class=xlGrey width=102>&nbsp;</td>
   <td></td>

@@ -12,7 +12,7 @@ Sunday 2018-09-23 from 09:00 to 12:30 and from 14:00 to 17:30
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Tutorials T1, T2, T3, T4, T5, T6, T7, T8
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Télécom ParisTech <A HREF="../pages/venueTPT.html">How to get there ?</A>
+Télécom ParisTech <A HREF="../pages/venue-tpt.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 

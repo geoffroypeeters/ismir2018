@@ -1,6 +1,6 @@
 title: Venue / Télécom ParisTech
 author: peeters
-slug: venueTPT
+slug: venue-tpt
 category:
 tags: venueTPT
 
@@ -24,3 +24,7 @@ the numerous metro and bus stations at walking distance (see map above).
 ## From CIUP to Télécom ParisTech
 
 <img src="../images/venue2/TPT_citeU.png">
+
+## TPT entrance
+
+<img src="../images/venue2/TPT.png">

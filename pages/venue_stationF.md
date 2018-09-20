@@ -1,6 +1,6 @@
 title: Venue / Station-F
 author: peeters
-slug: venueStationF
+slug: venue-station-f
 category:
 tags: venueStationF
 

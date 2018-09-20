@@ -1,6 +1,6 @@
 title: Interactive Machine-Learning for Music @Exhibition
 author: peeters
-slug: call-IMLME
+slug: call-imlme
 category:
 tags: callIMLME
 order: 2
@@ -15,12 +15,12 @@ Your work should be presentable as an installation which can be experienced via 
 
 ISMIR can provide, if applicable:
 
-- A table for a laptop or other equipment 
-- An electrical outlet and extension cord 
-- A nearby area to hang a poster 
+- A table for a laptop or other equipment
+- An electrical outlet and extension cord
+- A nearby area to hang a poster
 
 
-You must provide all other equipment (e.g., computer, headphones). 
+You must provide all other equipment (e.g., computer, headphones).
 
 ## What to submit:
 
@@ -54,7 +54,7 @@ Selection will be made on the basis of:
 - Suitability for space and technical limitations of the venue
 
 
-## Contact: 
+## Contact:
 
 - Rebecca Fiebrink, Goldsmiths, University of London
 - Wendy E. Mackay, ExSitu lab, Inria, Université Paris-Saclay

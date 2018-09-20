@@ -1,6 +1,6 @@
 title: Venue / Cité Internationale Universitaire de Paris
 author: peeters
-slug: venueCIUP
+slug: venue-ciup
 category:
 tags: venueCIUP
 
@@ -21,3 +21,7 @@ The conference will take place in the **Adenauer space** in the Cité Internatio
 ## From Télécom ParisTech to CIUP
 
 <img src="../images/venue2/TPT_citeU.png"></TD>
+
+## CIUP and Adenauer space entrance
+
+<img src="../images/venue2/CIUP.png">

@@ -1,6 +1,6 @@
 title: Call for Satellite Workshops
 author: peeters
-slug: call-Satellite
+slug: call-satellite
 category:
 tags: callSatellite
 order: 2

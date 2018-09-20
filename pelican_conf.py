@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import os
 
-SITENAME = "ISMIR 2018"
+SITENAME = ""
 SITEURL = 'http://ismir2018.ircam.fr'
 # AUTHOR = 'Guillaume Pellerin'
 # Uncomment following line if you want document-relative URLs when developing
@@ -89,19 +89,19 @@ TRANSLATION_FEED_ATOM = None
 
 MENUITEMS = [
 ('Home', '/'),
-('Planning', '/pages/events-at-a-glance.html'),
-('Events-Main', [
+('Program', '/pages/events-at-a-glance.html'),
+('Events', [
     ('Scientific Program', '/pages/events-main-program.html'),
     ('Tutorials', '/pages/events-tutorials.html'),
     ('Keynotes', '/pages/events-keynotes.html'),
     ('Women in MIR (WiMIR) Session', '/pages/events-wimir.html'),
-    ('Late Breaking Demos Session', '/pages/events-LBD.html'),
-    ('Unconference', '/pages/events-Unconference.html'),
+    ('Late Breaking Demos Session', '/pages/events-lbd.html'),
+    ('Unconference', '/pages/events-unconference.html'),
     ('Social Events', '/pages/events-social.html'),
     ('Interactive Machine-Learning 4 Music Exhibition', '/pages/events-exhibition.html'),
     ('Meetup with Industry', '/pages/events-meetup-industry.html'),
     ]),
-('Events-Satellite', [
+('Satellite Events', [
     ('HAMR (Hacking Audio and Music Research)', 'https://labrosa.ee.columbia.edu/hamr_ismir2018/'),
     ('5th International Conference on Digital Libraries for Musicology', 'https://dlfm.web.ox.ac.uk'),
     ('1st Workshop on Music Reading Systems (WoRMS)', 'https://sites.google.com/view/worms2018'),
@@ -117,19 +117,19 @@ MENUITEMS = [
     ('Financial Supports (Grants)', '/pages/participants-financial-supports.html'),
     ('Accommodations', '/pages/participants-accommodations.html'),
     ]),
-('Dates', '/pages/important-dates.html'),
 ('Call', [
+    ('Dates', '/pages/important-dates.html'),
     ('Tutorials/ Call for', '/pages/call-tutorials.html'),
     ('Papers/ Call for', '/pages/call-papers.html'),
     ('Papers/ Submission', '/pages/call-submission.html'),
     ('Papers/ Guidelines for Reviewers', '/pages/call-guidelines-reviewers.html'),
-    ('Late Breaking Demo/ Call for', '/pages/call-LBD.html'),
-    ['Music @Exhibition/ Call for', '/pages/call-IMLME.html']
+    ('Late Breaking Demo/ Call for', '/pages/call-lbd.html'),
+    ['Music @Exhibition/ Call for', '/pages/call-imlme.html']
     ]),
 ('About', [
-    ('Code of Conduct', '/pages/coc.html'),
-    ('About ISMIR', '/pages/about-ismir.html'),
     ('Organizing Committee', '/pages/about-organizing-committee.html'),
+    ('About ISMIR', '/pages/about-ismir.html'),
+    ('Code of Conduct', '/pages/coc.html'),
     ('Become an Industry Partner', '/pages/partners-call.html'),
     ]),
 ('Links', [('Télécom ParisTech', 'https://www.telecom-paristech.fr/'),

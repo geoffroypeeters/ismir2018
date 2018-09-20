@@ -1,6 +1,6 @@
 title: Late-Breaking Demos Session
 author: peeters
-slug: events-LBD
+slug: events-lbd
 category:
 tags: eventsLBD
 order: 1
@@ -12,7 +12,7 @@ Thursday 2018-09-27 from 09:00 to 10:30
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Late-Breaking Demos Session
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venue-ciup.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 

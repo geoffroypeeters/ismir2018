@@ -12,7 +12,7 @@ Monday 2018-09-24 and Wednesday 2018-09-26 from 13:30 to 14:30
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Keynotes
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venue-ciup.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 

@@ -12,7 +12,7 @@ Thursday 2018/09/27 from 13:30 to 18:00
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Meetup with Industry: A half-day event with networking activities and Industry talks (Full program available soon...)
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-<A HREF="https://stationf.co"'">Station F</A> <A HREF="../pages/venueStationF.html">How to get there ?</A>
+<A HREF="https://stationf.co"'">Station F</A> <A HREF="../pages/venue-station-f.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 

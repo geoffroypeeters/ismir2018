@@ -1,6 +1,6 @@
 title: Venue / Balajo
 author: peeters
-slug: venueBalajo
+slug: venue-balajo
 category:
 tags: venueBalajo
 

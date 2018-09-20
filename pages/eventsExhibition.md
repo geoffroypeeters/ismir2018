@@ -1,4 +1,4 @@
-title: Interactive Machine-Learning for Music @Exhibition
+title: Interactive Machine-Learning for Music (IML4M) @Exhibition
 author: peeters
 slug: events-exhibition
 category:
@@ -12,14 +12,14 @@ Monday 2018-09-24, Tuesday 2018-09-25, Wednesday 2018-09-26
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Interactive Machine-Learning for Music @Exhibition
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venue-ciup.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 
 <P></P>
 
 
-The Interactive Machine-Learning for Music @Exhibition presents four installations, that have been chosen after on a specific call.
+The Interactive Machine-Learning for Music (IML4M) @Exhibition presents four installations, that have been chosen after on a specific call.
 These installations showcases the use of machine learning and other MIR techniques in music composition and performance.
 Different types of interactions have been selected, from keyboard inputs, tablet drawings, to dance.
 

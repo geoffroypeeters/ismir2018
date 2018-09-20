@@ -17,14 +17,18 @@ parent: about
 
 - Hugo Caracalla (IRCAM)
 - Alice Cohen-Hadria (IRCAM)
+- Michel Desnoues (Télécom Paristech)
 - Hadrien Foroughmand (IRCAM)
 - Magdalena Fuentes (Télécom ParisTech)
 - Céline Jacques  (IRCAM)
 - Mathieu Prang (IRCAM)
+- Laure Prétet (Télécom ParisTech)
 - Umut Simsekli (Télécom ParisTech)
 - Andrea Vaglio (Deezer)
+- Paul Vernhet (Deezer)
 - Salimatou Yansane (Télécom ParisTech)
 - Laurence Zelmar (Télécom ParisTech)
+
 
 ### Program Chairs
 
@@ -64,17 +68,17 @@ parent: about
 
 ### Unconference
 
-| Cynthia C.S. Liem |
-|: -------------   |
-| TU Delft, The Nederlands |
-| ![CynthiaLiem]({filename}/images/organizing/people_liem_200.png) |
+| Cynthia C.S. Liem | Alice Cohen-Hadria |
+|: -------------   |: -------------   
+| TU Delft, The Nederlands | IRCAM, France |
+| ![CynthiaLiem]({filename}/images/organizing/people_liem_200.png) | ![CynthiaLiem]({filename}/images/organizing/people_cohen_200.jpg) |
 
 ### Music and Technology Chair
 
 | Rebecca Fiebrink | Wendy Mackay |  Frédéric Bevilacqua |
 |: -------------   |: -------------   |: -------------   |
 | Goldsmiths, University of London, UK | INRIA Saclay, France | IRCAM, France |
-| ![RebeccaFiebrink]({filename}/images/organizing/people_fiebrink_200.png) | ![WendyMackay]({filename}/images/organizing/people_mackay_200.jpg) | ![FrédéricBevilacqua]({filename}/images/organizing/unknown_200.png) |
+| ![RebeccaFiebrink]({filename}/images/organizing/people_fiebrink_200.png) | ![WendyMackay]({filename}/images/organizing/people_mackay_200.jpg) | ![FrédéricBevilacqua]({filename}/images/organizing/people_bevilacqua_200.jpg) |
 
 ### "Meetup with industry" session chair
 

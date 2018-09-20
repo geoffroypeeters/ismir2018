@@ -12,7 +12,7 @@ Monday 2018-09-24, Tuesday 2018-09-25, Wednesday 2018-09-26
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Scientific Program
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.html">How to get there ?</A>
+Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venue-ciup.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 
@@ -303,7 +303,7 @@ Cité International Universitaire de Paris (CIUP) <A HREF="../pages/venueCIUP.ht
 <TD>(E-17) <A HREF="../doc/pdfs/172_Paper.pdf">Learning Interval Representations from Polyphonic Music Sequences</A> <BR> Stefan Lattner, Maarten Grachten and Gerhard Widmer <BR></TD>
 </TR>
 <TR><TD><HR></TD></TD>
-<TR><TH>Ssession F - Machine and human learning of music </TH></TR>
+<TR><TH>Session F - Machine and human learning of music </TH></TR>
 <TR><TD class=xlGrey>When: Wednesday 2018-09-26 / Oral from 14:30 to 16:00 / Poster: 16:30 to 18:00</TD></TD>
 <TR><TD class=xlGrey>Chair: Emilia Gomez</TD></TD>
 <TR>

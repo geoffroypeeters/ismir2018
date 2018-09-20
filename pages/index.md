@@ -10,7 +10,10 @@ Illustration: black.png
 
 
 ## News
-- The full program of the ``Meetup with Industry" event is now available [here]({filename}/pages/eventsMeetupIndustry.md)
+- ISMIR-2018 is already a great success in terms of attendance (> 430 participants);
+	- However due this unexpected high number we are sorry to say that we have to **close the registration** for all events except the ["Meetup with Industry"]({filename}/pages/eventsMeetupIndustry.md).
+	- For the ones who didn't succeed to have a ticket, we are working on making some parts of the conference available through **video streaming**.
+- The full program of the "Meetup with Industry" event is now available [here]({filename}/pages/eventsMeetupIndustry.md)
 - Selected works for the Interactive Machine-Learning for Music @Exhibition are now published [here]({filename}/pages/eventsExhibition.md)
 - Detailed program with PDFs is now available [here]({filename}/pages/eventsMainProgram.md)
 - ISMIR-2018 Code of Conduct is available [here]({filename}/pages/coc.md)

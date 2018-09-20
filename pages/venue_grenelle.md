@@ -1,6 +1,6 @@
 title: Venue / Quai de Grenelle
 author: peeters
-slug: venueGrenelle
+slug: venue-grenelle
 category:
 tags: venueGrenelle
 

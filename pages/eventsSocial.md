@@ -16,7 +16,7 @@ Sunday 2018-09-23 from 19:30 to 24:00
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Welcome Reception
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-The Balajo <A HREF="../pages/venueBalajo.html">How to get there ?</A>
+The Balajo <A HREF="../pages/venue-balajo.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 
@@ -39,7 +39,7 @@ Wednesday 2018-09-26 from 20:00 to 02:00
 </TD></TR><TD class=xlDate>What</TD><TD class=xlGrey>
 Banquet and Jam Session
 </TD></TR><TD class=xlDate>Where</TD><TD class=xlGrey>
-Quai de Grenelle <A HREF="../pages/venueGrenelle.html">How to get there ?</A>
+Quai de Grenelle <A HREF="../pages/venue-grenelle.html">How to get there ?</A>
 </TD></TR>
 </TABLE>
 
