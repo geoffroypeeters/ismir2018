@@ -10,6 +10,8 @@ parent: events
 
 **Speakers: Markus Schedl, Peter Knees, Fabien Gouyon**
 
+**>>>>> [SLIDES AVAILABLE HERE](https://www.slideshare.net/FabienGouyon/music-recommendation-2018-116102609/) <<<<<** 
+
 **Abstract:** The current revolution in the music industry represents great opportunities and challenges for music recommendation systems. Recommendation systems are now central to music streaming platforms, which are rapidly increasing in listenership and becoming the top source of revenue for the music industry. It is increasingly more common for a music listener to simply access music than to purchase and own it in a personal collection. In this scenario, recommendation calls no longer for a one-shot recommendation for the purpose of a track or album purchase, but for a recommendation of a listening experience, comprising a very wide range of challenges, such as sequential recommendation, or conversational and contextual recommendations. Recommendation technologies now impact all actors in the rich and complex music industry ecosystem (listeners, labels, music makers and producers, concert halls, advertisers, etc.).
 
 To acknowledge these developments, we give an introductory tutorial providing an overview of music recommendation research, as well as the challenges it faces today. We focus on three use cases: automatic playlist generation, context-aware music recommendation, and recommendation in the creative process of music making.
@@ -44,7 +46,7 @@ He is an experienced teacher of graduate-level courses on recommender systems an
 <img src="../images/tutorial/tutorial_photo_gouyon.jpg">
 </TD>
 <TD>
-Fabien Gouyon is Principal Scientist at the music streaming service Pandora, where he does applied research on personalized music recommendation, and works with the Music Genome Project. Before joining Pandora, he received a PhD in Computer Science while working in the Music Technology Group in the University Pompeu Fabra in Barcelona, and was a co-founder of Barcelona Music and Audio Technologies (BMAT), worked in the Austrian Research Institute for Artificial Intelligence in Vienna, and started and led the Sound and Music Computing Group while teaching at the University of Porto. He was President of ISMIR in 2016-2017.
+Fabien Gouyon works at the music streaming service Pandorais as Principal Scientist and Head of Research in Europe. He does applied research on personalized music recommendation, and works with the Music Genome Project. Before joining Pandora, he received a PhD in Computer Science while working in the Music Technology Group in the University Pompeu Fabra in Barcelona, and was a co-founder of Barcelona Music and Audio Technologies (BMAT), worked in the Austrian Research Institute for Artificial Intelligence in Vienna, and started and led the Sound and Music Computing Group while teaching at the University of Porto. He was President of ISMIR in 2016-2017.
 </TD>
 </TR>
 
